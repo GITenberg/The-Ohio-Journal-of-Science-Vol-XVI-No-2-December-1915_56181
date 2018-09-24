@@ -1,0 +1,49 @@
+Uploaded at December 15, 2017 2:09 am PST by Reiner Ruf <salmon@s274373082.online.de>
+
+TITLE=The Ohio Journal of Science
+AUTHOR=Various
+EDITOR=Various
+CREDIT=Larry B. Harrison, Paul Marshall and the Online Distributed Proofreading Team at http://www.pgdp.net
+NOTIFY=Reiner Ruf <salmon@s274373082.online.de>, Larry Harrison <lbh60@comcast.net>, dp-post@pgdp.net
+FILETYPE=Unicode
+FILETYPE=html
+LANGUAGE=English
+FILES=o_s_j_xvi_2.zip
+SIZE=561309
+CLEARED=OK	20161111115735various	The Ohio Journal of Science	Various Various	1915:p 	All pre-1923 volumes can use the same clearance OK key.
+
+ZIP_TESTS=unzip -t output:
+Archive:  /home/spool/o_s_j_xvi_2.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+    79080  2017-06-13 08:47   images/cover.jpg
+    13059  2017-06-10 15:57   images/equation01.jpg
+    12909  2017-06-10 15:59   images/equation02.jpg
+    19430  2017-06-10 16:11   images/equation03.jpg
+    16258  2017-06-10 16:51   images/equation04.jpg
+    27905  2017-06-10 17:20   images/equation05.jpg
+    14414  2017-06-10 20:05   images/equation06.jpg
+    30770  2017-06-10 20:20   images/equation07.jpg
+    29427  2017-06-11 07:53   images/equation08.jpg
+    23954  2017-06-11 07:54   images/equation09.jpg
+    40659  2017-06-11 08:08   images/equation10.jpg
+    43681  2017-05-16 12:12   images/i_063.jpg
+    50479  2017-05-30 08:33   images/i_064.jpg
+    98147  2017-05-30 08:32   images/plate_i.jpg
+   100539  2017-05-30 08:33   images/plate_ii.jpg
+   156965  2017-12-15 11:00   o_s_j_xvi_2.html
+    98333  2017-12-14 17:17   o_s_j_xvi_2-utf8.txt
+---------                     -------
+   856009                     17 files
+
+Checking o_s_j_xvi_2.html
+Valid HTML!
+Valid CSS 2.1
+Valid Links!
+Summary: Found  1 text
+                1 HTML
+                15 image
+                0 directory
+Text file o_s_j_xvi_2-utf8.txt looks like UTF-8 without BOM
+Unitame says: 502 characters need to be handled manually.
+

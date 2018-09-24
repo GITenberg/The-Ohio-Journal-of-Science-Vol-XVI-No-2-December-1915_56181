@@ -1,0 +1,437 @@
+
+
+File: C:/active/add5/U56181-0.txt
+
+   --> 10 lines in this file contain '.,'. Not reporting them.
+   --> 122 lines in this file are long. Not reporting long lines.
+   --> 26 lines in this file contain forward slashes. Not reporting them.
+   --> 114 lines in this file contain standalone 0s and 1s. Not reporting them.
+   --> 112 lines in this file are VERY long!
+   --> There are 31 spaced dashes and em-dashes. Not reporting them.
+   --> There are a lot of foreign letters here. Not reporting them.
+    The PG header and footer appear to be already on.
+
+
+Distributed Proofreading Team at http://www.pgdp.net
+    Line 30 column 33 - Query word http - not reporting duplicates
+
+Distributed Proofreading Team at http://www.pgdp.net
+    Line 30 column 38 - Query word www - not reporting duplicates
+
+Distributed Proofreading Team at http://www.pgdp.net
+    Line 30 column 44 - Query word pgdp - not reporting duplicates
+
+Distributed Proofreading Team at http://www.pgdp.net
+    Line 30 column 44 - Missing space?
+
+Distributed Proofreading Team at http://www.pgdp.net
+    Line 30 column 49 - Missing space?
+
+Distributed Proofreading Team at http://www.pgdp.net
+    Line 30 column 52 - No punctuation at para end?
+
+  Equal signs "=" before and after a word or phrase indicate =bold=
+    Line 42 column 15 - Wrongspaced quotes?
+
+  Carat symbol "^" designates a superscript.
+    Line 44 column 16 - Wrongspaced quotes?
+
+  Underscores "_" before and after a word or phrase indicate _italics_
+    Line 49 - Mismatched underscores?
+
+                               and of the
+    Line 67 column 32 - Paragraph starts with lower-case
+
+   First and Second Annual Reports                 Price 30 cts. each
+    Line 141 column 60 - Query word cts - not reporting duplicates
+
+   1. Sandusky Flora. pp. 167. E. L. MOSELEY                     60 cts.
+    Line 149 column 21 - Extra period?
+
+   2. The Odonata of Ohio. pp. 110. DAVID S. KELLICOTT           60 cts.
+    Line 150 column 26 - Extra period?
+
+   7. Ecological Study of Big Spring Prairie. pp. 96.
+    Line 156 column 45 - Extra period?
+
+   8. The Coccidæ of Ohio, i. pp. 66. JAMES G. SANDERS           50 cts.
+    Line 158 column 26 - Query word i - not reporting duplicates
+
+  10. Ecological Study of Brush Lake. pp. 20. J. H. SCHAFFNER,
+    Line 160 column 37 - Extra period?
+
+  11. The Willows of Ohio. pp. 60. ROBERT F. GRIGGS              50 cts.
+    Line 162 column 2 - Query possible scanno 11
+
+  15. Trees of Ohio and Surrounding Territory. pp. 122.
+    Line 167 column 46 - Extra period?
+
+  17. Fauna of the Maxville Limestone. pp. 65. W. C. MORSE       60 cts.
+    Line 170 column 38 - Extra period?
+
+         the Itonididæ (Cecidomyiidæ)                            37
+    Line 195 column 23 - Query word Cecidomyiidæ - not reporting duplicates
+
+                           (CECIDOMYIIDÆ).[1]
+    Line 207 column 1 - Query word CECIDOMYIIDÆ - not reporting duplicates
+
+these fall under his "umwallungen" cecidia, a term very succinctly
+    Line 280 column 33 - endquote missing punctuation?
+
+     sides. Cecidomyia? sp. (33).
+    Line 415 column 23 - Query word sp - not reporting duplicates
+
+  10. Galls with sides flattened. 11.
+    Line 425 column 34 - Query possible scanno 11
+
+  11. Proximal half of gall conic, never sub-globular. (11).
+    Line 426 column 2 - Query possible scanno 11
+
+  11. Proximal half of gall conic, never sub-globular. (11).
+    Line 426 column 55 - Query possible scanno 11
+
+  11. Proximal half sub-globular. 12.
+    Line 427 column 2 - Query possible scanno 11
+
+Thompson, Illus. Cat. Am. Ins. Galls. 1915. p. 57, pl. 10, Fig. 260.
+    Line 502 column 50 - Query word pl - not reporting duplicates
+
+are a "pale yellow" color as described for the "cynipsea" gall. The
+    Line 542 column 18 - endquote missing punctuation?
+
+are a "pale yellow" color as described for the "cynipsea" gall. The
+    Line 542 column 56 - endquote missing punctuation?
+
+    Osten Sacken, Lowe's Monogr. Dipt. N. Am. Pt. 1. p. 193. 1862.
+    Line 546 column 25 - Query word Monogr - not reporting duplicates
+
+    Osten Sacken, Lowe's Monogr. Dipt. N. Am. Pt. 1. p. 193. 1862.
+    Line 546 column 45 - Query word Pt - not reporting duplicates
+
+Leaf, under side, double chambered conic or depressed (Fig. 5a) gall.
+    Line 551 column 59 - Query digit in 5a
+
+larval chamber at the proximal end, sub-spherical with a dia. about
+    Line 603 column 61 - Extra period?
+
+collected on _H. glabra_, (Fig. 9a.)
+    Line 654 column 31 - Query digit in 9a
+
+11. =Cecidomyia= sp. =Cecidium= nov.
+    Line 679 column 2 - Query possible scanno 11
+
+probable variety of this is figured in 11a, pl. I.
+    Line 689 column 39 - Query digit in 11a
+
+    Osten Sacken, Lowe's Mongr. Dip N. Am. Pt. 1, p. 192. 1862.
+    Line 706 column 25 - Query word Mongr - not reporting duplicates
+
+A most interesting variant of this form is illustrated in Fig. 16a.
+    Line 773 column 62 - Query digit in 16a
+
+Fig. 20a is a large specimen showing the peculiar interlocking base
+    Line 853 column 4 - Query digit in 20a
+
+(Fig. 21) or massed (Fig. 21a) on the leaflet. When massed they form a
+    Line 864 column 25 - Query digit in 21a
+
+due to mutual pressure, (Fig. 21b). Compactly attached to the common
+    Line 873 column 29 - Query digit in 21b
+
+  Felt, "Hormomyia holotricha" 23rd Rept. Ins. N. Y. 1907. pp. 382, 389.
+    Line 904 column 29 - endquote missing punctuation?
+
+  Felt, "Caryomyia holotricha" Jour. Econ. Ent. 4:456. 1911.
+    Line 905 column 29 - endquote missing punctuation?
+
+    Felt, "Caryomyia tubicola" Jour. Econ. Ent. 4:456. 1911.
+    Line 998 column 29 - endquote missing punctuation?
+
+defined nipple. Dia. across top, 2½ mm., height from leaf surface, 2
+    Line 1059 column 20 - Extra period?
+
+bract-like processes borne on the flaring rim of the gall. The galls
+    Line 1097 column 22 - Query possible scanno borne
+
+black margined with small nipple. Diameter 3mm."
+    Line 1130 column 43 - Query digit in 3mm
+
+  Fig. 1a.  Mite gall. Eriophyes? sp. × 5.
+    Line 1149 column 6 - Query digit in 1a
+
+  Fig. 5a.  Cecidomyia sp. Variety. × 4.
+    Line 1152 column 6 - Query digit in 5a
+
+  Fig. 9a.  Cecidomyia sp. New. Variety. × 5.
+    Line 1157 column 6 - Query digit in 9a
+
+  Fig. 11.  Cecidomyia sp. New. × 1{~VULGAR FRACTION ONE THIRD~}.
+    Line 1159 column 7 - Query possible scanno 11
+
+  Fig. 11a. Cecidomyia sp. New. Variety? × 5.
+    Line 1160 column 6 - Query digit in 11a
+
+  Fig. 16a. Cecidomyia sp. Variety, new. × 5.
+    Line 1170 column 6 - Query digit in 16a
+
+  Fig. 20a. Caryomyia caryae. Large specimen. × 5.
+    Line 1175 column 6 - Query digit in 20a
+
+  Fig. 21a. Caryomyia holotricha O. S. Aggregate condition × {~VULGAR FRACTION TWO THIRDS~}.
+    Line 1177 column 6 - Query digit in 21a
+
+  Fig. 21b. Caryomyia holotricha O. S. Bilocular unit of aggregate
+    Line 1178 column 6 - Query digit in 21b
+
+  Fig. 33.  Cecidomyia ? sp. × 5.
+    Line 1191 column 24 - Spaced punctuation?
+
+[Illustration: OHIO JOURNAL OF SCIENCE.
+    Line 1194 - Mismatched square brackets?
+
+VOL. XVI. PLATE I.]
+    Line 1196 - Mismatched square brackets?
+
+[Illustration: OHIO JOURNAL OF SCIENCE.
+    Line 1198 - Mismatched square brackets?
+
+VOL. XVI, PLATE II.]
+    Line 1200 - Mismatched square brackets?
+
+other Trees." Proc. Davenport Acad. Sci. 9:185-271, pls. 1-21. 1903.
+    Line 1205 column 51 - Query word pls - not reporting duplicates
+
+Naturalist, Vol. 25, Nos. 11, 12. 1912.
+    Line 1208 column 26 - Query possible scanno 11
+
+                          CARL J. WEST, Ph. D.
+    Line 1221 column 39 - Query word Ph - not reporting duplicates
+
+curve is "fitted" to the points, that is, a curve is passed _among_ the
+    Line 1232 column 16 - endquote missing punctuation?
+
+where t denotes abscissas and z ordinates.
+    Line 1260 column 1 - Paragraph starts with lower-case
+
+fourth and higher powers,
+    Line 1265 column 25 - No punctuation at para end?
+
+    x = a(t + {~GREEK SMALL LETTER KAPPA~}t^2 + {~GREEK SMALL LETTER LAMDA~}t^3),
+    Line 1267 column 5 - Paragraph starts with lower-case
+
+    x = a(t + {~GREEK SMALL LETTER KAPPA~}t^2 + {~GREEK SMALL LETTER LAMDA~}t^3),
+    Line 1267 column 9 - Unspaced bracket?
+
+where a, {~GREEK SMALL LETTER KAPPA~} and {~GREEK SMALL LETTER LAMDA~} are constants to be determined in "fitting" the curve.
+    Line 1269 column 1 - Paragraph starts with lower-case
+
+where a, {~GREEK SMALL LETTER KAPPA~} and {~GREEK SMALL LETTER LAMDA~} are constants to be determined in "fitting" the curve.
+    Line 1269 column 8 - Query punctuation after a?
+
+where a, {~GREEK SMALL LETTER KAPPA~} and {~GREEK SMALL LETTER LAMDA~} are constants to be determined in "fitting" the curve.
+    Line 1269 column 113 - endquote missing punctuation?
+
+altered, though of course the shape will be changed. Hence
+    Line 1276 column 58 - No punctuation at para end?
+
+        y dx = z dt,
+    Line 1278 column 9 - Paragraph starts with lower-case
+
+        y dx = z dt,
+    Line 1278 column 17 - Query word dt - not reporting duplicates
+
+    x = a(t + {~GREEK SMALL LETTER KAPPA~}t^2 + {~GREEK SMALL LETTER LAMDA~}t^3),
+    Line 1287 column 5 - Paragraph starts with lower-case
+
+    x = a(t + {~GREEK SMALL LETTER KAPPA~}t^2 + {~GREEK SMALL LETTER LAMDA~}t^3),
+    Line 1287 column 9 - Unspaced bracket?
+
+values of the constants a, {~GREEK SMALL LETTER KAPPA~} and {~GREEK SMALL LETTER LAMDA~} give unimodal curves.
+    Line 1295 column 26 - Query punctuation after a?
+
+  dy     dy     dt
+    Line 1299 column 3 - Paragraph starts with lower-case
+
+From the equation in this, the well known uv + kws = 0 form, numerous
+    Line 1338 column 45 - Query word kws - not reporting duplicates
+
+the modal equation becomes
+    Line 1357 column 26 - No punctuation at para end?
+
+[Illustration: _The plane of {~GREEK SMALL LETTER LAMDA~} and {~GREEK SMALL LET
+    Line 1368 - Mismatched square brackets?
+
+(_The horizontal scale is twice the vertical scale_)]
+    Line 1372 - Mismatched square brackets?
+
+the values of t satisfying the equation
+    Line 1382 column 39 - No punctuation at para end?
+
+ordinates. The roots of the quadratic
+    Line 1442 column 37 - No punctuation at para end?
+
+are numerically greater than 3 for all pairs of values of ({~GREEK SMALL LETTER LAMDA~}, {~GREEK SMALL LETTER KAPPA~}) lying
+    Line 1446 column 1 - Paragraph starts with lower-case
+
+above the line
+    Line 1447 column 14 - No punctuation at para end?
+
+distance between the median and the mean, a, {~GREEK SMALL LETTER KAPPA~} and {~GREEK SMALL LETTER LAMDA~}.
+    Line 1466 column 44 - Query punctuation after a?
+
+Denoting the moments about the median by {~GREEK SMALL LETTER MU~}, we have
+    Line 1471 column 75 - No punctuation at para end?
+
+             1  {~TOP HALF INTEGRAL~}+{~INFINITY~}
+    Line 1476 - Mismatched underscores?
+
+             1  {~TOP HALF INTEGRAL~}+{~INFINITY~}
+    Line 1480 - Mismatched underscores?
+
+             1  {~TOP HALF INTEGRAL~}+{~INFINITY~}
+    Line 1484 - Mismatched underscores?
+
+             1  {~TOP HALF INTEGRAL~}+{~INFINITY~}
+    Line 1488 - Mismatched underscores?
+
+where N is the total area under the curve.
+    Line 1490 column 1 - Paragraph starts with lower-case
+
+The values of the {~GREEK SMALL LETTER MU~}'s are computed from the data[8] and equated to the
+    Line 1492 column 42 - Query word s - not reporting duplicates
+
+area under the translated curve is
+    Line 1500 column 34 - No punctuation at para end?
+
+  {~GREEK SMALL LETTER MU~}_{n}^´ = ------ {~BOX DRAWINGS LIGHT VERTICAL~}  x^{n}y dx
+    Line 1503 column 26 - Query word n - not reporting duplicates
+
+  {~GREEK SMALL LETTER MU~}_{n}^´ = ------ {~BOX DRAWINGS LIGHT VERTICAL~}  x^{n}y dx
+    Line 1503 column 80 - Unspaced bracket?
+
+             1  {~TOP HALF INTEGRAL~}+{~INFINITY~}
+    Line 1505 - Mismatched underscores?
+
+       1   {~TOP HALF INTEGRAL~}+{~INFINITY~} a^n(t + {~GREEK SMALL LETTER KAPPA~}t^2 + {~GREEK SMALL LETTER LAMDA~}t^3)^n
+    Line 1507 column 49 - Unspaced bracket?
+
+  = ------------ {~BOX DRAWINGS LIGHT VERTICAL~}    a^n(t + {~GREEK SMALL LETTER KAPPA~}t^2 + {~GREEK SMALL LETTER LAMDA~}t^3)^ne^{-t^2/2} dt.
+    Line 1512 column 55 - Unspaced bracket?
+
+    {~BOX DRAWINGS LIGHT VERTICAL~}   x^{2n + 1}e^{-x^2} dx = 0
+    Line 1518 column 40 - Query digit in 2n
+
+    {~TOP HALF INTEGRAL~}+{~INFINITY~}                         2n + 1 {~TOP HALF INTEGRAL~}+{~INFINITY~}
+    Line 1521 column 37 - Query digit in 2n
+
+    {~BOX DRAWINGS LIGHT VERTICAL~}   x^{2n + 2}e^{-x^2} dx = ------------ {~BOX DRAWINGS LIGHT VERTICAL~}   x^{2n}e^{-x^2} dx,
+    Line 1522 column 40 - Query digit in 2n
+
+    {~BOX DRAWINGS LIGHT VERTICAL~}   x^{2n + 2}e^{-x^2} dx = ------------ {~BOX DRAWINGS LIGHT VERTICAL~}   x^{2n}e^{-x^2} dx,
+    Line 1522 column 111 - Query digit in 2n
+
+    {~BOX DRAWINGS LIGHT VERTICAL~}   x^{2n + 2}e^{-x^2} dx = ------------ {~BOX DRAWINGS LIGHT VERTICAL~}   x^{2n}e^{-x^2} dx,
+    Line 1522 column 114 - Unspaced bracket?
+
+the determination of {~GREEK SMALL LETTER MU~}_1´, {~GREEK SMALL LETTER MU~}_2´, {~GREEK SMALL LETTER MU~}_3´ and {~GREEK SMALL LETTER MU~}_4´ is reduced to a matter
+    Line 1526 column 1 - Paragraph starts with lower-case
+
+of a, {~GREEK SMALL LETTER KAPPA~} and {~GREEK SMALL LETTER LAMDA~}. It is most convenient however, to make use of the
+    Line 1529 column 5 - Query punctuation after a?
+
+the determination of {~GREEK SMALL LETTER MU~}_1´, {~GREEK SMALL LETTER MU~}_2´
+    Line 1534 - Mismatched underscores?
+
+we have
+    Line 1536 column 7 - No punctuation at para end?
+
+      (2) {~GREEK SMALL LETTER MU~}_2 = a^2(1 + 6x + 15x^2 + 2{~GREEK SMALL LETTER KAPPA~}^2)
+    Line 1540 column 46 - Query digit in 6x
+
+      (2) {~GREEK SMALL LETTER MU~}_2 = a^2(1 + 6x + 15x^2 + 2{~GREEK SMALL LETTER KAPPA~}^2)
+    Line 1540 column 51 - Query digit in 15x
+
+      (2) {~GREEK SMALL LETTER MU~}_2 = a^2(1 + 6x + 15x^2 + 2{~GREEK SMALL LET
+    Line 1541 - Mismatched underscores?
+
+                4{~GREEK SMALL LETTER KAPPA~}^4 + 4{~GREEK SMALL LETTER KAPPA~}^2S + T
+    Line 1546 column 78 - Query digit in 2S
+
+      where the symbols, S, R, Q and T are defined as follows:
+    Line 1550 column 7 - Paragraph starts with lower-case
+
+{~GREEK SMALL LETTER KAPPA~} and {~GREEK SMALL LETTER LAMDA~}.[11] On substituting these values in (2) the value of a can be
+    Line 1565 column 61 - Query possible scanno 11
+
+each value, the values of t corresponding to the x's of the respective
+    Line 1578 column 49 - Query word x's - not reporting duplicates
+
+classes. The cubic is
+    Line 1579 column 21 - No punctuation at para end?
+
+      a{~GREEK SMALL LETTER LAMDA~}t^3 + a{~GREEK SMALL LETTER KAPPA~}t^2 + at - x = 0.
+    Line 1581 column 7 - Paragraph starts with lower-case
+
+Trans. 1895, Vol. CLXXXVI, A, pp. 253 et seq.
+    Line 1766 column 29 - Query punctuation after a?
+
+Biometrika, I, pp. 265 et seq. and Biometrika II, pp. 1 et seq.
+    Line 1769 column 30 - Extra period?
+
+[7] Edgerton, F. Y.:--"On the Representation of Statistics by Means of
+    Line 1774 column 19 - Double punctuation?
+
+[11] Compare "Tables for Statisticians and Biometricians," Cambridge
+    Line 1789 column 2 - Query possible scanno 11
+
+   =Macropsis apicalis= Osb. & Ball. A few specimens swept from
+    Line 1817 column 23 - Query word Osb - not reporting duplicates
+
+   =Bythoscopus distinctus= VanDuzee. Found in great numbers
+    Line 1820 column 27 - Query word VanDuzee - not reporting duplicates
+
+   =Oncometopia undata= Fabr. Occurs throughout the state, but
+    Line 1866 column 23 - Query word Fabr - not reporting duplicates
+
+   =Kolla tripunctata= Fitch. Mentioned in VanDuzee's Catalogue
+    Line 1885 column 43 - Query word VanDuzee's - not reporting duplicates
+
+   =Tettigoniella hartii= Wood. Quite numerous throughout the
+    Line 1894 column 18 - Query word hartii - not reporting duplicates
+
+   =Tettigoniella hieroglyphica= Say. var. hieroglyphica Say. One
+    Line 1901 column 37 - Extra period?
+
+   =Tettigoniella hieroglyphica= Say. var. hieroglyphica Say. One
+    Line 1901 column 42 - Extra period?
+
+      Bull. 108. Bur. of Ent.
+    Line 1932 column 21 - Extra period?
+
+   =Gypona pectoralis= Spangb. Taken with G. flavilineata.
+    Line 1960 column 22 - Query word Spangb - not reporting duplicates
+
+   =Empoasca mali= LeB. One of the most common and probably the
+    Line 2130 column 18 - Query word LeB - not reporting duplicates
+
+Note: Queried word cts was duplicated 22 times
+
+Note: Queried word i was duplicated 2 times
+
+Note: Queried word sp was duplicated 52 times
+
+Note: Queried word pl was duplicated 5 times
+
+Note: Queried word monogr was duplicated 3 times
+
+Note: Queried word pt was duplicated 5 times
+
+Note: Queried word dt was duplicated 5 times
+
+Note: Queried word n was duplicated 4 times
+
+Note: Queried word osb was duplicated 2 times
+
+Note: Queried word vanduzee was duplicated 20 times
+
+Note: Queried word fabr was duplicated 2 times

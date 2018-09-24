@@ -1,0 +1,2688 @@
+﻿The Project Gutenberg EBook of The Ohio Journal of Science, Vol. XVI., No. 2 (December, 1915)  by Various
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: The Ohio Journal of Science, Vol. XVI., No. 2 (December, 1915) 
+
+Author: Various
+
+Editor: Various
+
+Release Date: December 15, 2017 [EBook #56181]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE OHIO JOURNAL OF SCIENCE, Vol. XVI., No. 2 (December, 1915)  ***
+
+
+
+
+Produced by Larry B. Harrison, Paul Marshall and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+Transcriber's Notes:
+
+  Underscores "_" before and after a word or phrase indicate _italics_
+    in the original text.
+  A single underscore designates a subscript.
+  Equal signs "=" before and after a word or phrase indicate =bold=
+    in the original text.
+  Carat symbol "^" designates a superscript.
+  Small capitals have been converted to SOLID capitals.
+  Illustrations have been moved so they do not break up paragraphs.
+  Typographical errors have been silently corrected but other variations
+    in spelling and punctuation remain unaltered.
+
+
+
+
+                               DECEMBER,
+                 Volume XVI.       1915      Number 2.
+
+
+                                The Ohio
+
+                           Journal of Science
+
+                 (Continuation of The Ohio Naturalist)
+
+                         Official Organ of the
+
+                OHIO STATE UNIVERSITY SCIENTIFIC SOCIETY
+
+                               and of the
+
+                        OHIO ACADEMY OF SCIENCE
+
+                             COLUMBUS, OHIO
+
+     Annual Subscription Price, $2.00      Single Number, 30 Cents
+
+ Entered at the Post-Office at Columbus, Ohio, as Second-Class Matter.
+
+
+
+
+                      THE OHIO JOURNAL OF SCIENCE
+
+                            PUBLISHED BY THE
+
+                Ohio State University Scientific Society
+
+                Issued Monthly during the Academic Year,
+                 from November to June (eight numbers).
+
+             OFFICIAL ORGAN OF THE OHIO ACADEMY OF SCIENCE
+
+        Subscription Price: $2.00 per Year, payable in advance;
+                      to Foreign Countries, $2.50.
+                        Single Copies, 30 Cents.
+
+                Editor,                JOHN H. SCHAFFNER
+                Associate Editor,          JAMES S. HINE
+                Associate Editor,      FREDERICK W. IVES
+
+
+                         EDITORIAL BOARD
+
+           J. F. LYMAN            Agricultural Chemistry
+           F. W. IVES           Agricultural Engineering
+           A. G. MCCALL                         Agronomy
+           F. L. LANDACRE                        Anatomy
+           J. H. SCHAFFNER                        Botany
+           CARL B. HARROP            Ceramic Engineering
+           JAS. R. WITHROW                     Chemistry
+           F. H. ENO                   Civil Engineering
+           MINNA C. DENTON                Home Economics
+           N. W. SCHERER                        Forestry
+           C. S. PROSSER                         Geology
+           V. H. DAVIS                      Horticulture
+           W. A. KNIGHT                  Industrial Arts
+           C. J. WEST                        Mathematics
+           HORACE JUDD            Mechanical Engineering
+           JONATHAN FORMAN                     Pathology
+           F. C. BLAKE                           Physics
+           R. J. SEYMOUR            Physiology (General)
+           CLAYTON MCPEEK           Physiology (Medical)
+           E. R. HAYHURST     Public Health & Sanitation
+           J. S. HINE             Zoology and Entomology
+
+THE OHIO JOURNAL OF SCIENCE is owned and controlled by the Ohio State
+University Scientific Society. By a special arrangement with the Ohio
+Academy of Science, the OHIO JOURNAL OF SCIENCE is sent without
+additional expense to all members of the Academy who are not in arrears
+for annual dues.
+
+The first fifteen volumes of the old OHIO NATURALIST may be obtained at
+$1.00 per volume.
+
+Remittances of all kinds should be made payable to the Business Manager,
+J. S. HINE.
+
+       Address The Ohio Journal of Science Ohio State University,
+                                Columbus
+
+              =Ohio Academy of Science Publications.=
+
+   First and Second Annual Reports                 Price 30 cts. each
+   Third and Fourth Annual Reports                 Price 25 cts. each
+   Fifth to Sixteenth Annual Reports               Price 20 cts. each
+   Seventeenth to Twenty-fourth Annual Report      Price 40 cts. each
+
+
+                            SPECIAL PAPERS.
+
+   1. Sandusky Flora. pp. 167. E. L. MOSELEY                     60 cts.
+   2. The Odonata of Ohio. pp. 110. DAVID S. KELLICOTT           60 cts.
+   3. The Preglacial Drainage of Ohio. pp. 76. W. G. TIGHT,
+          J. A. BOWNOCKER, J. H. TODD and GERARD FOWKE           50 cts.
+   4. The Fishes of Ohio. pp. 105. RAYMOND C. OSBURN             60 cts.
+   5. Tabanidæ of Ohio. pp. 63. JAMES S. HINE                    50 cts.
+   6. The Birds of Ohio. pp. 241. LYNDS JONES                    75 cts.
+   7. Ecological Study of Big Spring Prairie. pp. 96.
+          THOMAS A. BONSER                                       50 cts.
+   8. The Coccidæ of Ohio, i. pp. 66. JAMES G. SANDERS           50 cts.
+   9. Batrachians and Reptiles of Ohio. pp. 54. MAX MORSE        50 cts.
+  10. Ecological Study of Brush Lake. pp. 20. J. H. SCHAFFNER,
+          OTTO E. JENNINGS, FRED J. TYLER                        35 cts.
+  11. The Willows of Ohio. pp. 60. ROBERT F. GRIGGS              50 cts.
+  12. Land and Fresh-water Mollusca of Ohio. pp. 35. V. STERKI   50 cts.
+  13. The Protozoa of Sandusky Bay and Vicinity. F. L. LANDACRE  60 cts.
+  14. Discomycetes in the Vicinity of Oxford, Ohio. pp. 54.
+          FREDA M. BACHMAN                                       50 cts.
+  15. Trees of Ohio and Surrounding Territory. pp. 122.
+          JOHN H. SCHAFFNER                                      75 cts.
+  16. The Pteridophytes of Ohio. pp. 41. JOHN H. SCHAFFNER       50 cts.
+  17. Fauna of the Maxville Limestone. pp. 65. W. C. MORSE       60 cts.
+  18. The Agaricaceæ of Ohio. pp. 116. W. G. STOVER              75 cts.
+  19. An Ecological Study of Buckeye Lake. pp. 138.
+          FREDERICA DETMERS                                      75 cts.
+
+Address: C. W. REEDER, Librarian, Ohio Academy of Science.
+         Library, Ohio State University, Columbus, Ohio.
+
+
+
+
+                      THE OHIO JOURNAL OF SCIENCE
+
+       PUBLISHED BY THE OHIO STATE UNIVERSITY SCIENTIFIC SOCIETY
+
+               VOLUME XVI      DECEMBER, 1915      No. 2
+
+
+
+
+                           TABLE OF CONTENTS
+
+
+   WELLS—A Survey of the Zoocecidia on Species of Hicoria
+         Caused by Parasites Belonging to the Eriophyidæ and
+         the Itonididæ (Cecidomyiidæ)                            37
+   WEST—The Geometry of the Translated Normal Curve              60
+   GIBSON AND COGAN—A Preliminary List of the Jassoidea
+         of Missouri, with Notes on Species                      71
+   News and Notes                                                79
+
+
+
+
+                A SURVEY OF THE ZOOCECIDIA ON SPECIES OF
+                 HICORIA CAUSED BY PARASITES BELONGING
+                  TO THE ERIOPHYIDÆ AND THE ITONIDIDÆ
+                           (CECIDOMYIIDÆ).[1]
+
+
+                       BERTRAM W. WELLS.
+
+This paper is primarily an attempt to present adequate descriptions
+of the types of 30 itonid (cecidomyid) and 2 eriophyid (mite) galls,
+collected by the writer on hickory leaves. It is believed to contain
+sufficient new material to warrant its publication in advance of a
+general survey of N. E. United States zoocecidia, of which it will form
+a part. The data is based on collections made in Connecticut, Ohio and
+Kansas, most of the material however, being taken in Ohio.
+
+In addition, those forms (few in number) previously described which
+have not been seen by the author, have been added, so as to give a
+character of completeness to the survey of the two groups of galls.
+
+There are three groups of zoocecidia occurring on hickory trees:
+
+   1. Galls formed by species of Eriophyes (Fam. Eriophyidæ of
+     the Acarina or mites), or an allied genus. Only two are known.
+
+   2. Galls induced by species of Phylloxera (Aphididæ of the
+      Hemiptera). Pergande[2] has presented an excellent survey
+      of these insects accompanied by very satisfactory descriptions
+      of the cecidia formed by them.
+
+   3. Galls caused by species of Caryomyia (Itonididæ of the
+      Diptera). Possibly other genera may be represented on the
+      hickories, but according to Felt[3] “most of the hickory leaf
+      galls are probably made by species of Caryomyia, though
+      other midges have been reared from these deformities.”
+
+The genus Caryomyia, which undoubtedly occupies an important place in
+relation to the majority of the galls described in the present paper,
+will be given special consideration. Felt, to whom American cecidology
+is heavily indebted for his extensive studies of dipterous cecidozoons,
+presents the following description of the genus Caryomyia in the same
+citation as that immediately above.
+
+“Allied to Hormomyia, but differing by the thorax not being greatly
+produced over the head and by the presence of but 14 antennal
+segments. The males may have the flagellate antennal segments binodose
+or cylindric and subsessile and invariably with three low, stout
+circumfili. The antennal segments of the female are cylindric and with
+two circumfili; palpi tri- or quadri-articulate; wings rather broad,
+the third vein joining the costa at or near the wing apex; claws
+simple, the pulvilli well developed. The ovipositor of the female is
+short and with minute lobes apically. The genus appears to be confined
+to hickory leaf galls.”
+
+Adult insects not technically known are given the old generic name
+“Cecidomyia.”
+
+These galls as well as similar ones on other kinds of plants arise as
+the result of some stimulus (the nature of which is still not definitely
+known) applied by the very young larva to the growing tissue of the
+immature leaf. Nothing has yet been done on the development of the
+itonid galls of the hickories, but from studies on very similar types
+we have reason to believe that the ontogeny of the itonid forms is
+as follows: The egg is probably deposited superficially (for the
+ovipositor of the female Caryomyia is short) on the under side of the
+leaflet; on the upper side in a few cases.
+
+Hyperplasia or excessive cell proliferation results (probably not
+until after the larva has emerged from the egg) forming at first a
+saucer-shaped structure, then cup-shaped and finally by the ingrowth
+of the edges, the gall becomes a closed structure enveloping the larva
+in a chamber. The distal growth, seldom if ever in the hickory forms,
+proceeds so far as to obliterate the opening which was so prominent in
+the very immature cup-shape stage. Hence in practically all galls of
+this type a minute canal or pore can be demonstrated at the distal end.
+In Küster’s[4] very serviceable classification of abnormal plant parts,
+these fall under his “umwallungen” cecidia, a term very succinctly
+describing their mode of development.
+
+Two of the following described galls have been studied histologically
+by Cook,[5] _Caryomyia holotricha_ O. S. and _C. tubicola_ O. S.
+
+Concerning the problem of the distribution of the galls on the
+different species of hickory, it is still too early to be able to make
+any positive assertions. In most of the reports the species of tree has
+not been given. It is very well known that certain species of galls are
+found on 2 and 3 species of hickory, but whether they are developed on
+all indiscriminately is not known. _H. cordiformis_ seems to bear much
+fewer species than _H. ovata_ or _H. alba_. In the present list, the
+report of the gall upon a particular species of tree does not at all
+imply that it does not occur on others.
+
+Having had the opportunity to give attention to gall collecting
+in three rather widely separate localities, eastern Connecticut,
+southern and northern Ohio and eastern Kansas, some observations on
+the geographical distributions of the hickory itonids are here briefly
+presented.
+
+It is sometimes stated that the distribution of gall insects is similar
+to that of their host plants. In certain cases this does not seem to
+be true. In that of my number 32 first found and described by Sears,
+no report of this large and striking form has appeared, showing it
+to occur east of the Allegheny mountain system, a region in which
+_H. ovata_ is abundant. In the cases of my numbers 5, 9, 19 and 31,
+all heretofore unreported and possessing prominent distinguishing
+characters, it would seem as though they were somewhat restricted in
+their distribution, for while comparatively common in Ohio, they are
+never seen in Connecticut or Kansas, where equally intensive collecting
+was prosecuted. So few are the students of cecidia and so meager
+the data in this field, that it is, however, much too early to make
+positive assertions in matters of geographic distribution.
+
+The data on the galls presented herewith was compiled for the most
+part at the time of collection; the notes and drawings made from fresh
+material. For later comparative work, the material was all preserved in
+formalin, each collection being assigned to a vial.
+
+The writer has refrained from attaching a specific name to his new
+species of cecidia, a practice very common on the part of European
+cecidologists. Even though the adult gall has no direct relation to
+the adult insect, the fact, nevertheless, remains that the specificity
+of the gall owes its origin to the specificity of the physiological
+phenomena of the larval insect, and it is this, which in the mind of
+the writer, gives pre-eminence to the insect. The adult gall and the
+adult insect can be conceived as arising from the same complex, the
+larva, the adult insect bearing, however, a more intimate and direct
+relation to the original source of events than the gall. In many cases
+the adult insects offer characters, making possible the delimitation of
+species, with greater exactness, than do the galls. For these reasons
+new names of cecidia should only appear with adequate descriptions of
+the cecidozoons.
+
+Though the galls almost uniformly occur on the under side of the
+leaflet, the drawings have presented them in an inverted position, with
+the gall uppermost, this being the position in which the galls would be
+examined. In practically all cases there are two sketches of the type,
+one showing the exterior aspect of the gall, the other the interior as
+seen in a vertical, median section. The figure number is in all cases
+the same as the list number.
+
+The writer wishes to express his appreciation of the hospitality of
+his friend, J. L. King, who, as assistant entomologist for the Ohio
+Experiment Station, shared his field laboratory during some of the time
+in which cecidological collecting was being carried on.
+
+Though the writer has seen (with a few exceptions) the types herewith
+detailed an amply sufficient number of times to establish them as
+types, he does not claim infallibility, for the key he has worked
+out to these types. It is hoped, however, that it, together with the
+descriptions and illustrations will enable the student of the hickory
+galls to become better acquainted with the members of the two groups
+treated.
+
+Britton and Brown’s Illustrated Flora Northern U. S. and Canada, (2nd
+edition), New York, 1913, has been followed in the matter of plant
+nomenclature.
+
+The following two galls whose makers have been named by Felt have
+probably not been seen by the writer. Felt’s descriptions are given.
+They are not included in the key.
+
+  =Caryomyia thompsoni= Felt.
+     “Globose, thin-walled, long haired, melon-shaped, dia. 2-3 mm.”
+
+See my number 23.
+
+  =Caryomyia antennata= Felt.
+     “Globose, thick-walled, yellowish green or brown. Dia. 4-5 mm.”
+
+This description, as far as it goes, would indicate a similarity to
+C. persicoides Beut.
+
+   Felt, Jour. Econ. Ent. 4:456. 1911.
+
+
+KEY.
+
+The itonid group of galls herewith presented can be distinguished with
+one exception (No. 33) from the very common Phylloxera galls (Aphididæ)
+by the fact that the latter forms which are sufficiently small to be
+comparable in size to the itonids are intercalated in the leaf blade,
+i. e. the gall extends more or less prominently from both sides of
+the leaf. The itonids always give the appearance of an appendicular
+structure attached to the leaf.
+
+  1. Gall on nut. Caryomyia nucicola. (3)
+  1. Gall on leaf. 2.
+  2. An apparent elongate enlargement of vein.
+     Cecidomyia cynipsea (?) (4).
+  2. An inrolled leaf edge. (2).
+  2. Galls arising from intervenal tissue between veins or immediately
+     adjoining veins; radially symmetric structures with principal axis
+     more or less perpendicular to leaf blade. 3.
+  3. Galls double-chambered as seen in vertical median section. 4.
+  3. Galls single chambered. 7.
+  4. Galls definitely depressed. (5).
+  4. Galls small, sub-globular. (6).
+  4. Galls definitely conic. 5.
+  5. Elongate gall with rounded base in definite visible socket. (7).
+  5. Shorter gall attached by pedicel from rounded base not articulating
+     with definite socket. 6.
+  6. Proximal chamber of gall, conic. (5).
+  6. Proximal chamber of gall, depressed. (8).
+  7. Galls definitely conic; forms having rounded bases, the distal
+     portion is sufficiently drawn out to place the cecidium under
+     this class. 8.
+  7. Galls spheric, sub-spheric or depressed. 15.
+  7. Galls sub-cylindric, 2½-3 times as long as wide. 22.
+  7. Galls obconic, i. e., part projecting from leaf is flat topped,
+     constricted proximally to the pedicel embedded in the leaf. 25.
+  7. Blister gall, intercalated in the leaflet, projecting on both
+     sides. Cecidomyia? sp. (33).
+  8. Small irregular, low, masses of tissue always in axils of principal
+     veins of leaflet. Eriophyes sp. (1).
+  8. Galls definite structures projecting prominently from leaf
+     surface. 9.
+  9. Conic gall generally with strongly recurved tip appearing as though
+     lying on side, decumbent. (9).
+  9. Galls erect or tilted, seldom bent over, however, beyond angle of
+     45. 10.
+  10. Gall with flattened sides, pyramid-like. (10).
+  10. Galls with sides flattened. 11.
+  11. Proximal half of gall conic, never sub-globular. (11).
+  11. Proximal half sub-globular. 12.
+  12. Galls smooth. 13.
+  12. Galls pubescent. 14.
+  13. Galls large, 4-7 mm. long. (12).
+  13. Galls small, 1½-4 mm. long. (13).
+  14. Trichomes very long coarse. (14).
+  14. Pubescence short, fine. (15.)
+  15. Galls attached by proximal pedicel embedded in leaf, as seen in a
+      median vertical section.
+  15. Galls attached by structure extending from leaf into base of gall,
+      which remains on leaf when gall falls. 20.
+  16. Walls thick, soft. 17.
+  16. Walls thin, 18.
+  17. Galls smooth, depressed or with upward flaring walls forming a
+      saucer or cup-shaped structure distal to the chamber. (16).
+  17. Gall globular, finely pubescent like that of a peach. (17).
+  18. Surface perfectly smooth, symmetrically sub-spherical galls. 19.
+  18. Surface minutely shagreen-roughened, gall asymmetric, one side
+      prominently extended laterally. (18).
+  19. Small galls, 2½ mm. dia., nipple expanded and flattened resembling
+      the end of a bottle. (19).
+  19. Larger gall, 3-4 mm. dia., nipple short, pointed. (20).
+  20. Thick-walled, particularly the distal end, covered with heavy
+      tawny pubescence. (21).
+  20. Thinner walled, pubescence very short, puberulent. 21.
+  20. Very smooth. (22).
+  21. Depressed (not over 3 mm. high) with column extending through
+      center of chamber. (23).
+  21. Globular, 4-5 mm. high. (24).
+  21. Definitely balloon-shape. (25).
+  22. Base embedded in socket. 23.
+  22. Base not embedded in socket. 24.
+  23. Round-conic at tip. Caryomyia tubicola. (26).
+  23. Tapering to point, horn-like. (27).
+  24. Small gall, 2-2½ mm. high, with flaring base, attached by minute
+      pedicel at center. (28).
+  24. Large gall, 5-6 mm. long, gradually constricted proximally to very
+      narrow neck at point of attachment. (29).
+  25. Distal face with fovea containing a central nipple. Leaf not
+      projecting on side opposite gall. (30).
+  25. Distal face with fovea, leading into central pore; no central
+      nipple. Prominent convexity of leaf on side opposite the gall.
+      (31).
+  25. Distal face flaring out at edge into radiate bracts; these
+      sometimes strongly incurved. (32).
+
+
+
+
+                              ERIOPHYIDÆ.
+
+
+1. =Eriophyes?= sp. =Cecidium= nov.
+
+Small galls in the axils of the lateral veins of the leaflets. Above
+marked by a light colored angular area 1-1½ mm. dia. Below a small mass
+of tissue (the gall proper) fills the angle, covered by a fine close
+pubescence. Chamber within of small diameter, irregular in shape. The
+characteristic mites were definitely observed. They are white in color.
+On some leaflets every angle made by the mid-vein branching into the
+lateral ones was occupied by a gall. On _H. cordiformis_, in Athens
+County, Ohio, August.
+
+Type specimens at Ohio State University.
+
+
+2. =Eriophyes?= sp.
+
+Leaf edge gall; edge inrolled involving little more than the teeth.
+Variable in length from .5-2 cm. or longer, 1 mm.-2 mm. thick. Outer
+surface of affected area finely roughened; color of under side of the
+leaf. Thompson states that mites live within the fold. His report is
+the first one on this gall. Species of hickory on which specimens were
+found not determined.
+
+Thompson, Illus. Cat. Am. Ins. Galls. 1915. p. 57, pl. 10, Fig. 260.
+
+
+
+
+                               ITONIDIDÆ.
+
+
+3. =Caryomyia nucicola=, O. S.
+
+“Irregular swelling in the husk produced by the reddish
+larvæ. Reference to Caryomyia provisional.” Felt. “Contain
+thick walled cells. On Carya (Hicoria) alba.” Jarvis.
+
+    Osten Sacken, Trans. Am. Ent. Soc. 3:53. 1870.
+    Felt, Jour. Econ. Ent. 4:457. 1911.
+    Jarvis, 39th Ann. Rept. Ent. Soc. Ont. 1908. p. 84.
+
+4. =Cecidomyia cynipsea= O. S.
+
+“Rounded, irregular, hard swelling on the under side of the hickory
+leaf, on the mid-rib near the base of the leaf about half an inch long.
+In July, pale yellowish and contained in several small hollows, minute
+whitish larvæ, with breast bone narrowed anteriorly and ending in a
+point.” Osten Sacken.
+
+This form is so different from the other itonid galls of the hickory
+that the writer is inclined to place it here tentatively. It is very
+similar to _Phylloxera caryævenæ_ Fitch, with the exception that the
+hyperplasia extends below the leaf, while in the phylloxera gall it is
+developed on the upper side. The writer has observed orange colored
+larvæ in the aphid galls, but they were not definitely determined to be
+itonid.
+
+Since this type of gall has not since been reported as definitely
+caused by itonid larvæ, it is barely possible that Osten Sacken
+described the empty phylloxera gall above mentioned containing
+inquilinous itonid larvæ. The writer found many of these galls deserted
+by the aphids in the middle of July and Pergande states that the aphid
+nymphs begin to leave the galls in July. At this time, these galls
+are a “pale yellow” color as described for the “cynipsea” gall. The
+writer’s observations were made in southern Ohio, while Osten Sacken’s
+were made in the vicinity of Washington, D. C.
+
+    Osten Sacken, Lowe’s Monogr. Dipt. N. Am. Pt. 1. p. 193. 1862.
+
+
+5. =Cecidomyia= sp.
+
+Leaf, under side, double chambered conic or depressed (Fig. 5a) gall.
+The latter condition is perhaps the more usual. In these forms, the
+conic tip is sunken in the central fovea, the gall only measuring from
+1½-2 mm. vertical diameter. The conic forms are as though the tip was
+pulled out destroying the fovea. These often measure 5 mm. in height.
+The width of the galls varies from 3-5 mm. Very light green, or when
+older yellow to red, surface roughened with low tubercles as seen
+with lens. Inner chamber sub-conic with short mucronate tip. Walls
+of both chambers thin and smooth, outer wall slightly sticky. Base
+of gall flat, arising from a definite pedicel, resting in a cup-like
+depression, which is formed in a definite hyperplasia intercalated
+in the leaf. Above, this hyperplasia is evident as a raised circular
+area, 2½ mm. diameter, in the center of which is a minute light colored
+papilla.
+
+Rather common on _H. alba_. Collected in Hocking and Athens counties,
+Ohio.
+
+This double-chambered gall cannot be _Caryomyia inanis_ Felt, for it is
+neither “globose and small.” The author describes elsewhere a specimen
+which fits that description and is very probably produced by the
+cecidozoon just mentioned. Absolute certainty, it must be remembered,
+can only be obtained by checking the reared adult insects with the
+original descriptions.
+
+Sears described this gall from Cedar Point, Ohio, under the name
+_C. inanis_.
+
+    Sears, Ohio Nat. 15:380, pl. 18, Fig. 18. 1914.
+
+
+6. =Caryomyia inanis= Felt.
+
+“Globose, thin-walled with a false chamber at the apex. Dia. 2-3 mm.”
+Felt.
+
+In my material, the false chamber is large, occupying more than half
+of the gall. The gall is slightly balloon-shape, 2½ mm. high. Surface
+perfectly smooth. Collected, Hocking County, Ohio, on H. ovata.
+
+Sears in his “Insect Galls of Cedar Point (Ohio) and Vicinity,”
+described my number 5 under this species.
+
+    Felt, Jour. Econ. Ent. 4:456. 1911.
+    Felt, Bull. Brooklyn Ent. Soc. 8:99. 1913.
+
+
+7. =Cecidomyia= sp. =Cecidium= nov.
+
+On leaf, under side, elongate-conic constricted somewhat at base so as
+to resemble a miniature lamp chimney. Arises from saucer-like base. 5
+mm. in length. Smooth, greenish-yellow to brown. Two chambered, the
+larval chamber at the proximal end, sub-spherical with a dia. about
+⅓ the length of the gall. The distal false chamber large, the walls
+becoming thin apically. The partition separating the chambers is firm
+with a minute perforation at its center. Surface of leaf opposite gall
+not raised.
+
+Collected in Hocking County, Ohio, on _H. glabra_, July.
+
+Type specimens unaccountably missing. The description is nevertheless
+presented inasmuch as both it and the drawing were made from fresh
+material in the field.
+
+
+8. =Cecidomyia= sp. =Cecidium= nov.
+
+On leaf, under side, a gall similar to 7, perhaps a variety of it,
+though its prominent and constant differences would indicate a distinct
+species. Conic with rounded base and truncate tip, 4-6 mm. high, 3-4
+mm. broad in widest part. The wall at the tip thin, splitting into a
+fimbriate condition. Attached by a minute central pedicel, no trace of
+a saucer-shaped structure developing around the base. Galls greenish
+to red and purple tinted. Uniformly being covered with sparsely
+distributed short hairs. Interiorly two chambered, the larval chamber
+proximal and occupying nearly one-half of the gall. Walls including the
+partition comparatively thin. Surface of leaf opposite gall slightly
+raised with reddish tint.
+
+Collected in Athens County, Ohio, on _H. alba_, August.
+
+Type specimens at Ohio State University.
+
+
+9. =Cecidomyia= sp. =Cecidium= nov.
+
+On leaf, under side, elongate conic, asymmetric, the axis lying
+horizontal or parallel with the leaf blade plane. The tip is invariably
+strongly recurved upward and backward. The side of the proximal part of
+the gall lying against the leaf is flattened and rests close against
+the leaf and vein; the galls always spring from the side of a vein.
+Size variable from 2 mm. in length to 4 mm. this measurement distally
+not being made to the tip but merely to that part of the recurved
+terminal portion, farthest from the base. The larger specimens measure
+1½-2 mm. in width at the proximal end. Light green to nearly white, or
+sometimes roseate tinged. Very smooth. Walls thin distally thickening
+toward the basal end.
+
+Not uncommon on _H. alba_ in Hocking County, Ohio, July.
+
+Type specimens at Ohio State University.
+
+A gall, somewhat similar and probably a variety of the above was
+collected on _H. glabra_, (Fig. 9a.)
+
+Cylindric-conic, sharply bent over against the leaf, attenuate distal
+part short, not recurved, 3½ mm. long. Smooth, white like ivory. Wall
+rather thick, hard. Base of gall in shallow saucer-like depression
+against the vein. Interiorly the distal end is choked with coarse
+trichomes.
+
+
+10. =Cecidomyia= sp. =Cecidium= nov.
+
+Leaf, under side, distal ⅔ of gall dome-shaped with 3-many triangular
+sides, the flaring base resting on the proximal, constricted or
+saucer-shaped ⅓; 2-3 mm. high, 3-4 mm. wide. Tip attenuate, not sharp
+pointed, however. Light green to yellowish green, the tip darker,
+reddish to black. Surface smooth under lens. Larval chamber spherical,
+surrounded by sclerenchmya layer. This gall is very distinctive no
+other forms having the peculiar angular structure which it possesses.
+Not abundant.
+
+Collected at Gypsum, Ohio, August, on _H. microcarpa_.
+
+Type specimens at Ohio State University.
+
+
+11. =Cecidomyia= sp. =Cecidium= nov.
+
+On leaf, under side, rather large conic gall, whose distal ½-⅓
+constitutes a very slender apical process. Through this passes the fine
+canal leading to the depressed, sub-globular chamber in the proximal
+part of the gall. The galls are either erect or more generally tilted
+to one side, always arising from one of the larger veins. 5-8 mm. long,
+2½-3½ mm. wide at base. Outline of the flaring sessile base generally
+angular. Attenuate distal portion turning dark early. Light greenish
+yellow to brown when old. Smooth. Walls of chamber thick. A slender
+probable variety of this is figured in 11a, pl. I.
+
+Collected in Hocking County, Ohio, on _H. alba_. July.
+
+Type specimens at Ohio State University.
+
+
+12. =Caryomyia caryæcola= O. S.
+
+On leaf, under side, large galls with globular basal part extending
+into a point distally. Shape suggests that of a Prince Rupert’s drop.
+4-7 mm. long. Surface very smooth, greenish to reddish tinged. Some
+show a definite blue color over the attenuate apical end. Walls of
+medium thickness, very firm. Somewhat similar to _C. sanguinolenta_
+O. S. but differs from that gall in its larger size and much more
+attenuate distal end. Common on different hickories.
+
+    Osten Sacken, Lowe’s Mongr. Dip N. Am. Pt. 1, p. 192. 1862.
+    Felt, Jour. Econ. Ent. 4:456. 1911.
+
+
+13. =Caryomyia sanguinolenta= O. S.
+
+On leaf, beneath, stoutly conical, varying in size from 1½ mm. to
+4 mm. high. Tip erect or often bent to one side. Smooth, green to
+purplish-red and finally a brown when old. Attached to smaller veins by
+short pedicel, hidden from view, however, by the rounded base of the
+gall. Walls medium in thickness, possessing the rather soft texture of
+charcoal when dry; brown in color.
+
+This form is often found in enormous numbers on certain trees, bringing
+about early disintegration of the affected leaves. The lower leaves are
+more heavily infested due to the fact that the insects are apt to reach
+these first in their flight from the ground in the spring.
+
+    Osten Sacken, Lowe’s Monogr. Dip. N. Am. Pt. 1, p. 192. 1862.
+    Beutenmuller, Am. Mus. Nat. Hist. Guide Leaflet No. 16, p. 28,
+    Fig. 59.
+  Reprint from Am. Mus. Jour. Vol. 4, 1904.
+
+
+14. =Cecidomyia= sp. =Cecidium= nov.
+
+Leaf, under side, distal half conic-attenuate from the bulbous or
+sub-globular proximal half. Covered with long, coarse trichomes, the
+longest being half the length of the gall. Trichomes brown. Tip of
+gall generally darker than rest. 3-4 mm. high, 2-3 mm. wide. Cavity
+sub-spherical somewhat depressed at right angles to axis of gall. Walls
+relatively thick, especially the proximal part. Apical canal evident in
+median longitudinal section. Gall attached by short and broad pillar of
+tissue extending from the leaf into the fleshy base.
+
+    Gypsum, Ohio, August, on _H. ovata_.
+
+    Type specimens at Ohio State University.
+
+
+15. =Cecidomyia= sp. =Cecidium= nov.
+
+On leaf, under side, small, conic galls, generally found in pairs
+closely appressed to each other but not confluent. Distal attenuate
+⅓ rather sharply constricted from the sub-globular ⅔ of the gall and
+generally turned to one side. 2 mm. high, 1½-2 mm. broad at base.
+Yellowish in color, definitely and constantly pubescent. Interiorly the
+lining of the sub-globular larval chamber is deep blue-black in color.
+Walls of medium thickness. Comparatively large region of the base
+involved in the attachment of the gall.
+
+    Collected in Hocking County, Ohio, on _H. alba_, July.
+
+    Type specimens at Ohio State University.
+
+
+16. =Cecidomyia= sp.
+
+On leaf, under side, greatly depressed with central, prominent nipple,
+3-5 mm. dia. 1½-2½ mm. thick (vertical dia.) not including nipple.
+Light green, smooth. Firm fleshy with central sub-spherical larval
+chamber whose wall is differentiated from the surrounding tissue.
+Apical canal through nipple evident. This gall first reported and
+illustrated by Thompson.
+
+    Thompson, Illus. Cat. Am. Ins. Galls. 1915. p. 56, pl. 13, Fig. 228.
+
+A most interesting variant of this form is illustrated in Fig. 16a.
+If it were not for the large number of intermediate forms found, this
+one would easily be considered distinct. The region of the chamber
+surrounded by thick walls has been much reduced, so that only a
+circular area about the upper part of the chamber has the thick wall
+projecting from it. This new condition results in the formation of a
+definite saucer-shaped structure on the distal end of the gall. In
+some specimens the structure was no longer saucer-shape, but by the
+ingrowth of the edges it was assuming a spherical form, developing
+a two-chambered gall. It is natural to suspect that this may have
+been the mode of origin of the four-double-chambered galls described
+elsewhere in this paper. That, however, is entirely problematic.
+
+
+17. =Caryomyia periscoides= Beut.
+
+On leaf, underside, generally large, sub-globular galls. Younger
+ones appear like older, both often being found on same leaflet, 4-7
+mm. diameter. Galls covered with a fine short yellowish to reddish
+pubescence, suggesting the texture of peach “bloom.” Walls very thick,
+firm fleshy, surrounding the central spherical cavity, pierced,
+however, at the distal end by the fine apical canal. Closely sessile
+on leaf, generally at side of principal vein. Collected on _H. alba_,
+_glabra_ and _ovata_.
+
+From Felt’s short description, _Caryomyia antennata_ Felt, must have
+been taken from a similar gall.
+
+    Osten Sacken, Lowe’s Mono. Dip. N. Am. Pt. I. p. 193. 1862.
+    Beutenmuller, Am. Mus. Nat. Hist. Bull. 23:393. 1907.
+
+18. =Cecidomyia= sp.
+
+On leaf, under side, sub-globular (almost uniformly asymmetric in that
+one side projects laterally so as to present a parabolic outline,
+rather than a semi-circular one). A short definite nipple terminates
+the gall. 2-4 mm. diameter. White or light yellow to red. Walls medium
+in thickness, of a soft, almost fleshy consistency. Exterior surface
+almost uniformly minutely shagreen-roughened when observed with lens.
+The constricted base of the gall rests in a shallow saucer-shaped
+structure.
+
+This gall was described from Connecticut in citation below on _H.
+ovata_. Rather common in Hocking County, Ohio, on _H. microcarpa_.
+July, August.
+
+    Felt’s “Cecidomyia sp. Globose, irregular, ovate, granulate, a
+      slight nipple, dia. 2-3 mm.” probably belongs here.
+    Felt, Jour. Econ. Ent. 4:456. 1911.
+    Wells, Ohio Nat. 14:291. 1914.
+
+
+19. =Cecidomyia= sp. =Cecidium= nov.
+
+On leaf, under side, small, smooth, spherical galls, with a peculiar
+tip shaped like the end of a bottle, arising abruptly from the globular
+gall, 2-2½ mm. diameter. The gall reminds one of a miniature bomb.
+Green to yellowish with dark spots over the distal half. Thin-walled.
+Attached by a minute obconic pedicel. The pupa in these galls is
+suspended in the upper part of the chamber by a thread passing from
+each end of the body to the walls of the chamber. The galls drop from
+the leaves in late July. Not common.
+
+    Collected in Hocking County, Ohio, July, on _H. microcarpa_.
+
+    Type specimens at Ohio State University.
+
+
+20. =Caryomyia caryæ= O. S.
+
+On leaf, under side, sub-spherical gall with more or less prominent
+apical nipple. 3-3½ mm. diameter, rarely 4 mm. Light green, turning
+brown, smooth. In many, very definite meridian-like striations can be
+observed marking the wall. Wall thin, very fragile and dry. Surface of
+chamber smooth as though polished. Attached by conic pedicel arising
+from fovea in base of gall. This pedicel with its pointed end attached
+to the leaf is surrounded by or rests in a cup-like structure. In this
+respect the gall differs markedly from No. 22, which it superficially
+very much resembles.
+
+Fig. 20a is a large specimen showing the peculiar interlocking base
+exceptionally well developed.
+
+Collected from _H. alba_ and _H. ovata_, July and August.
+
+    Felt, Jour. Econ. Ent. 4:456. 1911.
+
+
+21. =Caryomyia holotricha= O. S.
+
+On leaf, under side, large tawny, long-haired galls, distributed singly
+(Fig. 21) or massed (Fig. 21a) on the leaflet. When massed they form a
+conspicuous brown, hairy structure, suggesting a huge caterpillar. The
+isolated galls are sub-globular to round-conic with or without a small
+terminal nipple. 3-5 mm. vertical diameter, 3-5 mm. wide. Interiorly
+the chamber of the isolated form is depressed, this fact being
+associated with that of the thick distal wall. Gall chamber surrounded
+by definite sclerenchyma layer. Cortical tissue firm. Attached by
+irregular process from leaf extending into base of gall. In the massed
+forms, the galls are similar in structure, but are variously shaped,
+due to mutual pressure, (Fig. 21b). Compactly attached to the common
+central hyperplasia along the vein, which on the upper side of the leaf
+is a reddish irregular, low elevation. Some of these masses are as long
+as 5 cm., possessing a thickness of 10-15 mm.
+
+Common on various hickories, particularly _H. ovata_.
+
+A gall which may eventually prove to be a different species but which
+here is provisionally classed as a variety of _C. holotricha_, was
+found in numbers on the leaves of _H. alba_, though it is probably not
+restricted to this species of hickory. Instead of an apical nipple,
+it has an apical pit, which is choked with the characteristic brown
+pubescence of this type of gall. Internally a tuft of coarse brown
+trichomes extends inwardly from the distal side of the chamber. The
+chamber occupies the proximal one-half to two-thirds of the gall, the
+wall over it being uniformly very thick. This type of gall is constant,
+being collected repeatedly and examined minutely.
+
+Based on Felt’s brief description, his _Caryomyia thompsoni_ Felt was
+taken from this gall or one very similar to it.
+
+Closely allied to the above variety is another form, with internal
+tuft of trichomes, in which the apical nipple is present. The layer
+of tissue lining the chamber appears very white, due probably to the
+character of the tissue beneath the superficial nutritive layer. In
+section the thin white chamber wall is very definitely delimited from
+the adjoining darker tissues. Many of these conic-sub-spheric galls
+were 6 mm. in width. Collected on _H. glabra_. Types of this and the
+above variety are at the Ohio State University.
+
+  Osten Sacken, Lowe’s Monogr. Dip. N. Am. Pt. I, p. 193. 1862.
+  Felt, “Hormomyia holotricha” 23rd Rept. Ins. N. Y. 1907. pp. 382, 389.
+  Felt, “Caryomyia holotricha” Jour. Econ. Ent. 4:456. 1911.
+
+
+22. =Cecidomyia= sp. =Cecidium= nov.
+
+On leaf, under side, sub-globular with minute apical nipple. Tip of
+latter truncate with fine pore in center. 3 mm. high, 2½-3 mm. wide.
+Generally wider through one axis. Smooth; light greenish yellow.
+Interiorly a more or less prominent nipple projects inward from the
+distal end of the chamber, traversed by the apical pore. Toward
+maturity the interior wall is reddened. Gall attached by a short,
+cylindric pillar, extending from the leaf into the base of the globular
+structure. At the end of summer the galls fall from the leaf, leaving
+this pedicel on the leaf. Galls when found are apt to occur in large
+numbers, as many as 50-60 commonly being found on a single leaflet.
+
+Collected in Hocking County, Ohio, on _H. microcarpa_, July.
+
+Type specimens at Ohio State University.
+
+
+23. =Cecidomyia= sp. =Cecidium= nov. (?)
+
+Leaf, under side, depressed (door-knob-shape) closely sessile on leaf
+attached by a very short stout pedicel. 3-4 mm. wide, 2-2½ mm. high.
+Greenish to dull brown, covered with short, thin pubescence or smooth.
+Interiorally from both the proximal and distal sides, truncated,
+conic processes extend inward, meeting in the center. From the end of
+the upper one numerous, very coarse trichomes radiate into the gall
+chamber, which are white at first, turning brown. The central tissue
+and the walls are of a firm, fleshy character. There is commonly a more
+or less definite fovea, exteriorly at the distal end.
+
+Collected in southern (Hocking County) and northern (Lake County) Ohio
+on _H. ovata_.
+
+Thompson briefly describes and illustrates a gall similar to the above
+which Felt as editor called _Caryomia thomsoni_. The illustration,
+however, shows the gall not be to Felt’s _C. thompsoni_ as he has
+described it, viz., “Globose, with long, erect, reddish, fuscous hairs.”
+
+    Felt, Bull. Brooklyn Ent. Soc. 8:99. 1913.
+    Thompson, Illus. Cat. Am. Ins. Galls, p. 56, pl. 12, Fig. 227.
+
+
+24. =Cecidomyia= sp. =Caryomyia similis= Felt (?)
+
+On leaf, under side, large, globular, 4-5 mm. dia. Light yellow-green
+to brown, surface puberulent. A minute nipple terminates the gall.
+Walls thin. Attached by a short pillar, over which the basal part of
+the sphere fits like a cap. Surface of leaf not noticeably raised on
+side opposite the gall.
+
+Collected on _H. microcarpa_ in Ohio and _H. glabra_ in Connecticut.
+
+This gall is very close if not identical with _Caryomyia similis_ Felt.
+It differs from his description in that it is not “depressed.”
+
+    Felt, Jour. Econ. Ent. 4:456. 1911.
+    Felt, Bull. Brooklyn Ent. Soc. 8:99. 1913.
+
+
+25. =Cecidomyia= sp.
+
+On leaf, generally on upper side, balloon-shaped gall, 3-5 mm. high,
+3-4 mm. wide. Terminal nipple arising from slight apical depression.
+Greenish-brown or sometimes varying toward a very dark purplish tinge,
+its peculiar color being very constant and characteristic. The surface
+is dotted over with short, swollen glandular hairs. Trichomes sometimes
+projecting slightly from apical pore. Walls very thin. Galls attached
+to short, stout process of the leaf, to be seen only in median,
+vertical section. Surface of leaf on side opposite the gall not raised.
+Never numerous on leaflet. Closely related, if not identical, with
+_C. caryae_ O. S. See No. 20.
+
+Observed on _H. glabra_, in Hocking County, Ohio, July.
+
+
+26. =Caryomyia tubicola= O. S.
+
+On leaf, under side, cylindrical with rounded distal end standing
+erect from the cup-like base embedded in the leaf blade. 4-6 mm. high,
+generally very close to 5 mm. 1 mm. dia. Body of gall, yellow to brown
+in color, distal end reddish to brown, at length almost black. Basal
+cup, greenish yellow to dark purple. Cylindrical part of gall smooth
+as though polished. Gall attached to the cup only at its central basal
+part. Before the end of summer the tube-like portion breaks away with
+its enclosed larva. On the side of the leaf opposite the gall its
+position is indicated merely by a dark discoloration. Very common on
+different kinds of hickories.
+
+    Osten Sacken, Lowe’s Monogr. Dip N. Am. Pt. 1, p. 192, 1862.
+    Felt, Rept. Ins. N. Y. 1907. pp. 382, 388, pl. 37, Fig. 5.
+    Felt, “Caryomyia tubicola” Jour. Econ. Ent. 4:456. 1911.
+
+
+27. =Cecidomyia= sp. =Cecidium= nov.
+
+Leaf, under side, arising from a shallow cup-like structure. Shape of
+a slender horn, slightly curved, 5-7 mm. long, 1¼ mm. wide at base.
+Light green at base, changing to yellow, the distal ⅔ of the gall a
+deep brown. No demonstrable opening at the end. Walls thin. Surface
+smooth, under lens minute longitudinal striations evident. Very little
+discoloration on the upper side of the leaf to mark the location of the
+gall beneath. Resembles _Caryomyia tubicola_ O. S. but is certainly a
+different species.
+
+Collected in Hocking County, Ohio, July, on _H. alba_.
+
+Type specimens at Ohio State University.
+
+
+28. =Cecidomyia= sp. =Cecidium= nov.
+
+On leaf, generally upper side, delicate, small, sub-cylindric galls,
+standing erect, 2-2½ mm. high, less than 1 mm. wide, constricted
+proximally to the slightly flaring base. Distal end marked off by a
+circular ridge, in the center of which is a rounded nipple. This latter
+turns dark early. Gall light green, at length turning brown. Arises
+from intervenal areas between the smaller veins. On the under side of
+the leaf the gall above is indicated by a minute dark area. Attached to
+leaf by minute central pedicel.
+
+Collected in Hocking County, Ohio, on _H. alba_ in July.
+
+Type specimens at Ohio State University.
+
+
+29. =Cecidozoon= (Type undetermined.) =Cecidium= nov.
+
+On leaf, under side, rather large, pouch-like gall (5-6 mm. long)
+arising from a principal vein. Shaped like a stout gourd, it is bent
+over nearly recumbent against the blade of the leaf. 2-2½ mm. wide. The
+proximal end is sharply constricted at the minute point of attachment.
+The walls when collected were light brown in color, sparsely covered
+with short white hairs. Walls very thin and when dry brittle. Interior
+surface smooth. Inconspicuous on the upper side of the leaf, except for
+the minute pore next the vein. Two specimens from the same leaflet.
+
+This gall differs so markedly from all the other cecidomyidous galls
+of the hickories, that I am not certain just where to place it. They
+contained no occupants of any kind.
+
+Collected in Hocking County, Ohio, on _H. glabra_, July.
+
+Type specimens at Ohio State University.
+
+
+30. =Cecidomyia= sp. =Cecidium= nov.
+
+On leaf, under side, obconic gall resting in firm collar-like base.
+Somewhat similar to 31, but differs in definite constant characters to
+make it distinct. Proximal end not rounded but definitely conic, distal
+broad end with prominent fovea in the center of which arises a well
+defined nipple. Dia. across top, 2½ mm., height from leaf surface, 2
+mm. Greenish to reddish brown, smooth. No prominence or convexity of
+leaf surface opposite the gall, a slight discoloration only marking the
+position of the cecidium.
+
+Collected in Hocking County, Ohio, on _H. microcarpa_, July.
+
+Type specimens at Ohio State University.
+
+
+31. =Cecidomyia= sp. =Cecidium= nov.
+
+On leaf, under side, small, obconic galls which in development appear
+to burst through the epidermis, for gall is surrounded by the ragged
+collar-like remnant. The rounded proximal end strongly sunken in the
+leaf blade which is prominently convex on the opposite side. Distal
+end truncate with funnel-like depression leading to the rather large
+apical pore. This latter connects the depressed chamber within with the
+exterior. Distal broad end 1½ mm. wide. Gall projects from leaf surface
+1-1½ mm. Smooth; light greenish-yellow in color. Walls very thick
+distally, very thin proximally where it is connected to the leaf at
+the central region. On the upper side of the leaf the low, hemispheric
+convexity is reddened, particularly toward the periphery. At first it
+was thought that this gall might be a juvenile form of _H. tubicola_,
+but later observations have shown it to grow no further in length. It
+is without doubt distinct and new.
+
+
+32. =Cecidomyia= sp.
+
+“Leaf-gall on under surface, having the form of a much depressed
+inverted cone, attached by its apex, and with the free base surrounded
+by a conspicuous fringe. 3-4 mm. high, 4-5 mm. in diameter. Green to
+light yellow-green. Huron, July 25. Quite rare and I believe hitherto
+unreported.” Sears.
+
+The author has collected this interesting gall at Gypsum, Ohio, in
+August. Many of them measured 5 mm., not including the radiate,
+bract-like processes borne on the flaring rim of the gall. The galls
+bear an evanescent thin disk of tissue on the distal, central region,
+which is clear brown in color and bears erect scattered trichomes. The
+underlying surface of the gall or the outer convex part is perfectly
+smooth. The origin of the apical, brown disk is problematical; from the
+material at hand it appeared as if the rim of the gall had developed by
+pushing out beneath the original apical tissue. After the disk falls,
+only a minute dark spot marks the apex of the gall. The surface of the
+under half of the gall, below the flaring, lacerate rim, is more or
+less pubescent.
+
+Chamber comparatively large; walls thin.
+
+This very striking gall has thus far only been collected by Mr. Sears
+and myself, both times in northern Ohio and occurring on _H. ovata_.
+
+Some specimens, all occurring on the same leaf varied in that they were
+not so depressed (almost sub-hemispheric) and had the rim strongly
+inturned against the very convex distal half of the gall.
+
+    Sears, Ohio Nat. 15:380. 1914.
+
+
+33. =Cecidomyia?= sp.
+
+On leaf, blister-like, irregularly circular in outline, 2½-3½ mm.
+diameter, ½ mm. thick. Extends above and below about equally. Sometimes
+a slight central nipple is formed below. Greenish to brownish with
+discolored margin.
+
+Collected in Vinton County, Ohio, on _H. cordiformis_.
+
+Probably same as Felt’s “Leaf blister gall, irregular, dull greenish or
+black margined with small nipple. Diameter 3mm.”
+
+This type of gall is so different from all the other cecidomyid forms
+that it is doubtful if it is a member of that group. It may possibly
+be an immature or small Phylloxera gall. The writer found white larvæ
+within his specimens, but was unable to determine them as cecidomyid
+larvæ. This gall is thus introduced here, provisionally.
+
+    Felt, Jour. Econ. Ent. 4:456. 1911.
+
+
+
+
+     EXPLANATION OF PLATES I AND II.
+
+
+              PLATE I.
+
+  Fig. 1.   Mite gall. Eriophyes? sp. × 1⅓.
+  Fig. 1a.  Mite gall. Eriophyes? sp. × 5.
+  Fig. 2.   Mite gall. Eriophyes? sp. × 3.
+  Fig. 5.   Cecidomyia sp. × 4.
+  Fig. 5a.  Cecidomyia sp. Variety. × 4.
+  Fig. 6.   Caryomyia inanis Felt. × 5.
+  Fig. 7.   Cecidomyia sp. New. × 5.
+  Fig. 8.   Cecidomyia sp. New. × 4.
+  Fig. 9.   Cecidomyia sp. New. × 5.
+  Fig. 9a.  Cecidomyia sp. New. Variety. × 5.
+  Fig. 10.  Cecidomyia sp. New. × 5.
+  Fig. 11.  Cecidomyia sp. New. × 1⅓.
+  Fig. 11a. Cecidomyia sp. New. Variety? × 5.
+  Fig. 12.  Caryomyia caryaecola O. S. × 3.
+  Fig. 13.  Caryomyia sanguinolenta O. S. × 5.
+  Fig. 14.  Cecidomyia sp. New. × 5.
+  Fig. 15.  Cecidomyia sp. New. × 5.
+  Fig. 16.  Cecidomyia sp. × 5.
+
+
+              PLATE II.
+
+  Fig. 16a. Cecidomyia sp. Variety, new. × 5.
+  Fig. 17.  Caryomyia persicoides. Beut. × 5.
+  Fig. 18.  Cecidomyia sp. × 4.
+  Fig. 19.  Cecidomyia sp. New. × 4.
+  Fig. 20.  Caryomyia caryae O. S. × 5.
+  Fig. 20a. Caryomyia caryae. Large specimen. × 5.
+  Fig. 21.  Caryomyia holotricha O. S. Isolated specimen. × 5.
+  Fig. 21a. Caryomyia holotricha O. S. Aggregate condition × ⅔.
+  Fig. 21b. Caryomyia holotricha O. S. Bilocular unit of aggregate
+            form. × 2.
+  Fig. 22.  Cecidomyia sp. New. × 5.
+  Fig. 23.  Cecidomyia sp. Possibly new. × 5.
+  Fig. 24.  Caryomyia similis Felt (?) × 1.
+  Fig. 25.  Cecidomyia sp, Caryomyia caryae O. S. (?) × 5.
+  Fig. 26.  Caryomyia tubicola O. S. × 3.
+  Fig. 27.  Cecidomyia sp. New. × 3.
+  Fig. 28.  Cecidomyia sp. New. × 5.
+  Fig. 29.  Cecidozoon (undetermined). New. × 3.
+  Fig. 30.  Cecidomyia sp. New. × 7.
+  Fig. 31.  Cecidomyia sp. New. × 6.
+  Fig. 32.  Cecidomyia sp. × 5.
+  Fig. 33.  Cecidomyia ? sp. × 5.
+
+[Illustration: OHIO JOURNAL OF SCIENCE.
+
+VOL. XVI. PLATE I.]
+
+[Illustration: OHIO JOURNAL OF SCIENCE.
+
+VOL. XVI, PLATE II.]
+
+[1] Contribution from the Botanical Laboratory of the Ohio State
+University, No. 92.
+
+[2] Pergande, T. “North American Phylloxerinae affecting Hicoria and
+other Trees.” Proc. Davenport Acad. Sci. 9:185-271, pls. 1-21. 1903.
+
+[3] Felt, E. P. “The Identity of the better known Midge Galls.” Ottawa
+Naturalist, Vol. 25, Nos. 11, 12. 1912.
+
+[4] Küster, E. Die Gallen der Pflanzen, Leipzig. 1911.
+
+[5] Cook, Mel T. “Galls and Insects Producing Them.” Ohio Nat.
+4:140-141. 1904.
+
+
+
+
+              THE GEOMETRY OF THE TRANSLATED NORMAL CURVE.
+
+
+                          CARL J. WEST, Ph. D.
+
+=Introduction.= In curve tracing the graphic representation is
+constructed from the equation. Due largely to the requirements of
+statistics the converse, namely, to find the equation of the curve
+when the distribution of points is given, has become of interest. This
+problem is very different from the exercises of analytical geometry
+in which a given law of distribution of points is to be translated
+into algebraic language. For the presence in the statistical data of
+accidental irregularities makes it undesirable as well as practically
+impossible to obtain a curve passing _through_ the points. Instead, a
+curve is “fitted” to the points, that is, a curve is passed _among_ the
+points in accordance with some generally accepted principal such as
+that of least squares or the agreement of moments.
+
+Aside from the straight line and the parabolas, the curves proposed
+by Pearson[6] have found acceptance. In order to derive curves which
+can be fitted to widely varying distributions of points, Professor F.
+Y. Edgeworth[7] has proposed to modify, to _translate_, the normal
+probability curve with unit standard deviation.
+
+            1
+     y = —————— e^(—(t^2/2))
+          √(2π)
+
+In this article we shall discuss the geometry of the curves which
+Edgeworth obtains by this transformation and derive a method for an
+approximate solution of the two equations, one of the fourth and the
+other of the sixth degree, which arise in the fitting of a curve of
+this class.
+
+In order that the final curve may be written in terms of the
+co-ordinates x and y the equation of the base or generating normal
+probability curve is written:
+
+            1
+     z = —————— e^(—(t^2/2))
+          √(2π)
+
+where t denotes abscissas and z ordinates.
+
+Let the abscissas of the transformed curve be functions of the
+corresponding abscissas of the base curve. Then it may be assumed that
+x can be developed in powers of t, and hence we may write on omitting
+fourth and higher powers,
+
+    x = a(t + κt^2 + λt^3),
+
+where a, κ and λ are constants to be determined in “fitting” the curve.
+
+Since x denotes the value of a measurement and y the frequency of x,
+that is, the number of individuals possessing that value of x, the
+magnitude of an element of area denotes the number of individuals
+between two values of x. Obviously, therefore, if the transformation is
+to be of concrete value the magnitude of an element of area must not be
+altered, though of course the shape will be changed. Hence
+
+        y dx = z dt,
+  and      y = z dt/dx
+
+               1                         1
+          = —————— e^(—(t^2/2)) · ——————————————————
+             √(2π)                a(1 + 2κt + 3λt^2)
+
+The formulas of transformation are thus:
+
+    x = a(t + κt^2 + λt^3),
+
+          1                          1
+    y = —————— e^(—(t^2/2)) · ——————————————————
+        √(2π)                 a(1 + 2κt + 3λt^2)
+
+=Maximum and Minimum Points.= Since only curves with one maximum
+point or mode are practically useful it is desirable to determine what
+values of the constants a, κ and λ give unimodal curves.
+
+We have
+
+  dy     dy     dt
+  ——— =  ——— · ———
+  dx     dt     dx
+
+          1                  (3λt^3 + 2κt^2 + (1 + 6λ)t + 2κ)
+     = —————— e^(—(t^2/2)) · ————————————————————————————————
+        √(2π)                       a(1 + 2κt + 3λt^2)
+
+From the vanishing of the numerator of dy/dx there must result either
+one or three real modes for each pair of values for λ and κ, that is,
+for each translated curve. To determine what values of λ and κ give
+uni-modal curves and what tri-modal it is convenient to consider the
+plane of λ and κ.
+
+The discriminant of the equation
+
+     3λt^3 + 2κt^2 + (1 + 6λ)t + 2κ = 0
+  is
+     16κ^4 - κ^2(1 + 66λ + 117λ^2) + 3λ(1 + 6λ)^3 = 0
+
+This fourth degree curve crosses the horizontal or λ-axis at λ = 0 and
+at λ = -⅙ and when λ = 0 its equation reduces to 16κ^4 - κ^2 = 0 or
+κ = ±0, κ = ±¼. There is thus contact with the vertical or κ-axis at the
+origin and that axis is crossed at the points (0, ±¼). At the point
+(λ = -⅙, κ = 0) there is a cusp with the λ-axis for tangent. The other
+two intersections with the line λ = -⅙ are imaginary, indicating the
+presence of two branches to the curve.
+
+The discriminant of the denominator of dy/dx is the parabola
+(in λ and κ),
+
+              κ^2 - 3λ = 0
+
+The evident close geometrical connection between the two discriminants
+suggests arranging the discriminant of the cubic curve in the following
+form:
+
+    (κ^2 - 3λ) (16κ^2 - 117λ^2 - 18λ - 1) - 27λ^3(1 - 24λ) = 0
+
+From the equation in this, the well known uv + kws = 0 form, numerous
+elementary geometrical facts can be derived. The relations to the
+hyperbola, 16κ^2 - 117λ^2 - 18λ - 1 = 0, and to the parabola,
+κ^2 - 3λ = 0, premit of the ready plotting of the curve with sufficient
+accuracy. The general shape of the curve is shown in Figure 1.
+
+It is to be noted that one branch of the curve is within the parabola,
+almost coinciding with it, while the other crosses it at λ = 1/24. From
+the original form of this equation it appears that the two branches
+of this discriminant meet just inside the parabola in the end points
+with approximate co-ordinates (0.043, ±0.360). The geometry of the cusp
+and end-points on the discriminant curve is suggestive of interesting
+development in detail.
+
+Values of λ and κ for points on the discriminant give curves with two
+modes coinciding. All points on one side of the discriminant have three
+real and distinct modes, and all on the other have one real and two
+imaginary modes. To determine on which side the points giving three
+real modes lie we examine a point inside the discriminant. When κ = 0
+the modal equation becomes
+
+    3λt^3 + (1 + 6λ)t = 0.
+
+                                    ______________
+Hence the roots are t = 0 and t = ±√(-(1 + 6λ)/3λ). The quantity
+under the radical is positive for values of λ between 0 and-⅙.
+Therefore, all points within the discriminant curve yield
+tri-modal curves and all without uni-modal curves.
+
+[Illustration: _The plane of λ and κ_
+
+_Fig. I_
+
+(_The horizontal scale is twice the vertical scale_)]
+
+The infinite values of dy/dx arise from zero values of the quadratic,
+1 + 2κt + 3λt^2. The greatest possible number of modes for any one curve
+is therefore five, three from the cubic and two from the quadratic.
+Since for infinite values of dy/dx the corresponding ordinates are
+infinite, it is advisable to study the location of the infinite points
+of the curve, rather to the neglect of the idea of maximum values at
+such points.
+
+=Infinite Ordinates.= The infinite points on a curve are given by
+the values of t satisfying the equation
+
+    3λt^2 + 2κt + 1 = 0.
+
+Except under certain limited conditions to be determined later a curve
+with infinite ordinates can not be of great statistical value.
+
+The parabola, κ^2-3λ = 0, obtained by equating the discriminant of
+this quadratic to zero separates the points on the (λ, κ) plane which
+correspond to curves of _no_ infinite points from those corresponding
+to curves of _two_ infinite points.
+
+[Illustration: _Types of Curves_]
+
+Therefore, all pairs of values of λ and κ within the parabola, with the
+exception of the very narrow region also within the first discriminant
+curve, give uni-modal curves without infinite ordinates.
+
+=Types of Curves.= Without entering into detailed proofs we will
+now investigate the general shape of the curves corresponding to values
+of λ and κ in each of the distinct regions of the plane of λ and κ.
+
+In the region beneath the parabola and to the right from the shaded
+area of Fig. I the curve is essentially of the shape shown in Fig. II.
+This type includes the most common skew curves and hence is of great
+importance in statistics.
+
+As the point (λ, κ) moves from the λ-axis the crest rises until
+the parabola is reached when the infinite ordinates appear as two
+coincident lines, shown in Fig. III.
+
+After the parabola is passed, the infinite ordinates separate and the
+curve apparently separates into three branches as in Fig. IV.
+
+In crossing the κ-axis to the left one asymptote moves off to infinity
+giving a curve of the type shown in Fig. V.
+
+Then the asymptote reappears giving a curve of the type shown in Fig.
+VI.
+
+This general shape is preserved as the point moves toward the λ-axis
+and when the point reaches the discriminant curve the middle branch is
+flattened at the minimum point.
+
+For points within the discriminant curve two minimum points appear and
+the central branch now shows a maximum with a minimum point on either
+side as in Fig. VII.
+
+=The Tri-modal Curves.= The curves corresponding to values of (λ,
+κ) within the discriminant, because of the requirement that an element
+of area under the translated curve must always be equivalent to the
+corresponding element under the base or generating curve, can be of
+statistical value only under the following conditions.
+
+The area between the two ordinates corresponding to t = ±3 is 0.99998
+of the total area under the curve, so that when neither of the minimum
+points corresponds to points closer than three units to the origin
+of the base curve the curve may be practically valuable. A moment’s
+consideration will show that the abscissas of the two minimum points
+must be practically the same as that of the corresponding infinite
+ordinates. The roots of the quadratic
+
+    3λt^2 + 2κt + 1 = 0
+
+are numerically greater than 3 for all pairs of values of (λ, κ) lying
+above the line
+
+    27λ - 6κ + 1 = 0
+
+As statistically promising within the discriminant of the cubic we then
+have the shaded area of the (λ, κ) plane.
+
+=The Origin.= The generating curve is the symmetrical normal
+probability curve with origin at its center. Since x = 0 when t = 0,
+the origin of the translated curve coincides with that of the base or
+generating curve. The translated curve may not be symmetrical so that
+the mean ordinate may not coincide with the modal ordinate. Because of
+the relation between corresponding areas the ordinate at the origin
+must continue to divide the area under the curve into equal parts, that
+is, the origin and median always coincide.
+
+=Determination of the Constants.= Since the exact position of
+the median can not ordinarily be determined by inspection or direct
+computation there are in reality four constants to be determined: the
+distance between the median and the mean, a, κ and λ.
+
+In determining the constants it is usual to compute the value of the
+first four moments. The third and fourth moments are extensions of
+the idea of the well known formulas for the first and second moments.
+Denoting the moments about the median by μ, we have
+
+             1  ⌠+∞
+  μ_{1}^´ = ——— │  xy dx
+             N  ⌡-∞
+
+             1  ⌠+∞
+  μ_{2}^´ = ——— │  x^{2}y dx
+             N  ⌡-∞
+
+             1  ⌠+∞
+  μ_{3}^´ = ——— │  x^{3}y dx
+             N  ⌡-∞
+
+             1  ⌠+∞
+  μ_{4}^´ = ——— │  x^{4}y dx
+             N  ⌡-∞
+
+
+where N is the total area under the curve.
+
+The values of the μ’s are computed from the data[8] and equated to the
+corresponding integrals which of course involve the four constants.
+In this way four equations are obtained from which the values of the
+constants may be determined. Since it is our present object to discuss
+the solution only of these equations, merely the principal results will
+be given.
+
+The general form for the moments about the median of the
+area under the translated curve is
+
+             1  ⌠+∞
+  μ_{n}^´ = ——— │  x^{n}y dx
+             N  ⌡-∞
+
+
+       1   ⌠+∞ a^n(t + κt^2 + λt^3)^n
+  = —————— │   ———————————————————————— e^{-t^2/2} a(1 + 2κt + 3λt^2) dt
+    √(2π)N ⌡-∞   a(1 + 2κt + 3λt^2)
+
+       1   ⌠+∞
+  = —————— │    a^n(t + κt^2 + λt^3)^ne^{-t^2/2} dt.
+    √(2π)N ⌡-∞
+
+On applying the two well known formulas:
+
+    ⌠+∞
+    │   x^{2n + 1}e^{-x^2} dx = 0
+    ⌡-∞
+
+    ⌠+∞                         2n + 1 ⌠+∞
+    │   x^{2n + 2}e^{-x^2} dx = —————— │   x^{2n}e^{-x^2} dx,
+    ⌡-∞                            2   ⌡-∞
+
+
+the determination of μ_1´, μ_2´, μ_3´ and μ_4´ is reduced to a matter
+of algebraic detail. Then on transferring to the arithmetic mean as
+origin the values of μ_2, μ_3, and μ_4 can be determined in terms
+of a, κ and λ. It is most convenient however, to make use of the
+quantities β_1 = μ_3^2/μ_2^3 and β_2 = μ_4/μ_2^2 or rather β = β_1/8
+and ϵ = (β_2 - 3)/12 and express the constants in terms of these
+quantities. It is to be noted that both ϵ and β are zero for a normal
+distribution, that is, for λ = κ = 0.
+
+Omitting the detailed reduction[9] which is straightforward and direct,
+we have
+
+      (1) μ´ = aκ
+
+      (2) μ_2 = a^2(1 + 6x + 15x^2 + 2κ^2)
+
+                2κ^2(2κ^2 + Q)^2
+      (3) β = ——————————————————————
+                  (2κ^2 + R)^3
+
+                4κ^4 + 4κ^2S + T
+      (4) ϵ = ——————————————————————
+                  (2κ^2 + R)^2
+
+      where the symbols, S, R, Q and T are defined as follows:
+
+
+      S = 1 + 18λ + 90λ^2,
+      R = 1 + 6λ + 15λ^2,
+      Q = 1.5 + 18λ + 135/2λ^2,
+      T = 2λ + 36λ^2 + 270λ^3 + 810λ^4.
+
+Obviously no algebraic solution can be obtained from equations (3) and
+(4) for κ and λ in terms of the computed values β and ϵ, and hence a
+resort to tables is necessary. The values of β and ϵ for values of κ
+from 0 to 0.0335 and of λ from -0.040 to +0.100 have been computed.[10]
+The process of determining the constants of the translated normal curve
+consists first in computing β and ϵ from the given data, and then in
+entering the table and interpolating for the corresponding values of
+κ and λ.[11] On substituting these values in (2) the value of a can be
+found and thence on multiplying a by κ the position of the median of
+the distribution is obtained.
+
+The sign of κ is determined by the sign of the third moment about the
+mean μ_3, that is, by the direction of the skewness or asymmetry. For
+positive skewness the mean must lie to the right of the median and
+hence μ_1´, the first moment about the mean, must be positive which
+necessitates a positive sign for κ. Therefore, the sign of κ is the
+same as that of the skewness.
+
+To fit a curve to the given data, after the constants have been
+determined it is necessary to find, by solving a cubic equation for
+each value, the values of t corresponding to the x’s of the respective
+classes. The cubic is
+
+      aλt^3 + aκt^2 + at - x = 0.
+
+Any of the various methods of approximating to the solution of a cubic
+may be used in solving these equations.
+
+The area of each class can now be obtained by computing the
+corresponding areas under the standard normal curve from a table of the
+probability integral.
+
+=The Method of Interpolation.= The actual fitting of the curve can
+now be readily accomplished.[12] The distinctively geometrical operation
+is the interpolation for the values of λ and κ for a given pair of
+values of β and ϵ.
+
+Within the limits of the table[13] the curves resulting from the
+assignment of a constant value to β are practically straight lines,
+β = 0 is the λ-axis; β = 1 is a line parallel to the λ-axis.
+Hence we may safely assume that the variation from one column
+to the next and from one line to the next is linear for
+values of β. That is, ordinary first difference interpolation
+methods are applicable.
+
+As regards the system of ϵ curves we have for instance ϵ = .128 at (λ
+= .050, κ = 0); again, at approximately (.045, .060) and (.40, .085).
+We are therefore warranted in assuming the applicability of first
+difference methods to interpolation between the ϵ curves.
+
+As an illustration let us find the values of λ and κ for ϵ = 0.112 and
+β = 0.044. On inspection of the table it is seen that λ lies between
+0.30 and .035 and κ between .090 and .095. When κ = .090, λ = .033 for
+ϵ = .112. When κ = .095, λ = .031 for ϵ = .112. For β = .042 and
+κ = .090, λ = .033 and for β = .046 and κ = .095, λ = .031, ϵ = .112 in
+each case. Hence, to first differences, λ = .032 and κ = .093 for
+ϵ = .112 and β = .044. For interpolation in parts of the table showing
+more rapid variations appropriate methods will suggest themselves.
+
+Taken geometrically the table represents two distinct systems of
+curves, with each curve of one system intersecting all the curves of
+the other system. Therefore, a pair of values for λ and κ can always be
+found for values of ϵ and β within the range of the table.
+
+Department of Mathematics, Ohio State University.
+
+
+               TABLE OF ϵ AND β.
+
+(ϵ is the first and β the second number of each pair.)
+
+                         λ
+  ───┬────────────────────────────────────────────
+   κ │-040 -035 -030 -025 -020 -015 -010 -005  000
+  ───┴────────────────────────────────────────────
+  000 -061 -056 -050 -043 -035 -027 -019 -010  000
+       000  000  000  000  000  000  000  000  000
+
+  005      -055 -049 -042 -035 -027 -019 -010  000
+            000  000  000  000  000  000  000  000
+
+  010      -055 -049 -042 -035 -027 -018 -010  000
+            000  000  000  000  000  000  000  001
+
+  015           -049 -042 -035 -027 -018 -009  001
+                 001  001  001  001  001  001  001
+
+  020           -048 -041 -034 -026 -017 -008  002
+                 001  002  002  002  002  002  002
+
+  025           -047 -040 -033 -025 -016 -007  003
+                 002  002  002  003  003  003  003
+
+  030           -046 -039 -032 -024 -015 -006  004
+                 003  003  004  004  004  004  004
+
+  035           -045 -038 -031 -023 -014 -005  005
+                 004  005  005  005  005  005  006
+
+  040                -037 -030 -022 -013 -004  006
+                      006  006  007  007  007  007
+
+  045                -036 -028 -020 -011 -002  008
+                      008  008  008  009  009  009
+
+  050                -034 -026 -018 -009 -000  010
+                      009  010  010  011  011  011
+
+  055                -032 -024 -016 -007  002  012
+                      011  012  012  013  013  013
+
+  060                     -022 -014 -005  004  014
+                           014  015  015  016  016
+
+  065                     -020 -012 -003  006  017
+                           016  017  018  018  019
+
+  070                     -018 -009  000  009  019
+                           019  020  020  021  022
+
+  075                     -015 -007  002  012  022
+                           022  023  023  024  025
+
+  080                     -013 -004  005  015  025
+                           025  026  026  027  028
+
+  085                          -001  008  018  028
+                                029  030  031  032
+
+  090                           002  011  021  032
+                                032  033  034  036
+
+  095                           005  015  025  035
+                                036  037  038  039
+
+  100                           009  018  028  039
+                                039  041  042  044
+
+(ϵ is the first and β the second number of each pair.)
+
+                         λ
+  ───┬────────────────────────────────────────
+   κ │ 005 010 015 020 025 030 035 040 045 050
+  ───┴────────────────────────────────────────
+  000  010 021 033 045 057 071 084 098 113 128
+       000 000 000 000 000 000 000 000 000 000
+
+  005  010 021 033 045 057 071 084 098 113 128
+       000 000 000 000 000 000 000 000 000 000
+
+  010  011 022 033 045 058 071 085 099 113 128
+       001 001 001 001 001 001 001 001 001 001
+
+  015  011 022 034 046 058 071 085 099 114 129
+       001 001 001 001 001 001 001 001 001 001
+
+  020  012 023 034 046 059 072 086 100 115 130
+       002 002 002 002 002 002 002 002 002 002
+
+  025  013 024 035 047 060 073 087 101 116 131
+       003 003 003 003 003 003 003 003 003 003
+
+  030  014 025 036 049 061 074 088 102 117 132
+       004 004 004 005 005 005 005 005 005 005
+
+  035  015 026 038 050 063 076 089 104 118 133
+       006 006 006 006 006 006 007 007 007 007
+
+  040  017 028 039 052 064 077 091 105 120 135
+       007 008 008 008 008 008 008 009 009 009
+
+  045  019 030 041 053 066 079 093 107 122 137
+       009 010 010 010 010 011 011 011 011 011
+
+  050  021 032 043 055 068 081 095 109 124 139
+       012 012 012 012 013 013 013 013 014 014
+
+  055  023 034 045 057 070 083 097 111 126 141
+       014 014 015 015 015 016 016 016 016 017
+
+  060  025 036 048 060 073 086 100 114 129 144
+       017 017 017 018 018 019 019 019 019 020
+
+  065  028 039 050 062 075 089 102 116 131 146
+       019 020 020 021 021 022 022 022 023 023
+
+  070  030 041 053 065 078 091 105 119 134 149
+       022 023 024 024 025 026 026 026 026 027
+
+  075  033 044 056 068 081 094 108 122 137 152
+       026 026 027 028 028 029 029 030 030 031
+
+  080  036 047 059 071 084 097 111 125 140 155
+       029 030 031 031 032 033 033 034 034 035
+
+  085  039 050 062 075 088 101 115 129 144 159
+       033 034 034 035 036 037 037 038 039 039
+
+  090  043 054 066 079 092 105 119 133 148 163
+       037 038 039 039 040 041 042 042 043 044
+
+  095  046 058 070 083 096 109 123 137 152 167
+       041 042 043 044 045 046 046 047 048 049
+
+  100  050 062 074 087 100 113 127 141 156 171
+       045 046 047 048 049 050 051 052 053 054
+
+[6] Pearson, Karl:—“Skew Variation in Homogeneous Material;” Phil.
+Trans. 1895, Vol. CLXXXVI, A, pp. 253 et seq.
+
+“On the Systematic Fitting of Curves to Observations and Measurements,”
+Biometrika, I, pp. 265 et seq. and Biometrika II, pp. 1 et seq.
+
+Elderton:—“Frequency Curves and Correlation,” pp. 1-105; C. & E.
+Layton, 1906.
+
+[7] Edgerton, F. Y.:—“On the Representation of Statistics by Means of
+Analytical Geometry,” Jour. Roy. Stat. Soc., 1914, Feb., Mar., May,
+June and July.
+
+[8] Elderton, 1. c.
+
+[9] Compare Edgeworth, “A Method of Representing Statistics by
+Analytical Geometry,” Proceedings Fifth International Congress of
+Mathematicians, Cambridge, 1912.
+
+[10] Only a part of the original table appears in the accompanying
+table. The original values were computed to four places of decimals,
+but three place numbers are sufficient to illustrate the method of
+approximating to the solution.
+
+[11] Compare “Tables for Statisticians and Biometricians,” Cambridge
+University Press, 1914.
+
+[12] For the statistical details see Elderton, 1. c.
+
+[13] As may be seen on examining the Table.
+
+
+
+
+            A PRELIMINARY LIST OF THE JASSOIDEA OF MISSOURI
+                         WITH NOTES ON SPECIES.
+
+
+                 By EDMUND H. GIBSON and ERIC S. COGAN,
+                      U. S. Bureau of Entomology.
+
+The following preliminary list of the Jassoidae of Missouri is mainly
+the result of collections and notes made by the authors during the
+summer months of 1915. On account of the lack of records for this
+state the authors were prompted to undertake such a survey. As far
+as possible collections were made so as to embrace all conditions in
+different sections, giving some attention to ecological relations. The
+list comprises some 98 species.
+
+
+                             BYTHOSCOPIDAE.
+
+   =Macropsis apicalis= Osb. & Ball. A few specimens swept from
+      weeds at Charleston, Mo., during the late summer.
+
+   =Bythoscopus distinctus= VanDuzee. Found in great numbers
+      on willows in northern Missouri.
+
+   =Pediopsis viridis= Fitch. Not common. Taken from willows
+      near drainage canals in southeast Missouri. Somewhat
+      more numerous in northern part of the state.
+
+   =Idiocerus nervatus= VanDuzee. The only species taken from
+      willows about Chillicothe.
+
+   =Idiocerus verticis= Say. Listed by VanDuzee as occurring in
+      the state.
+
+   =Idiocerus crataegi= VanDuzee. Swept from grasses at
+      Chillicothe.
+
+   =Idiocerus snowi= Gill & Baker. Recorded from Lutesville and
+      Charleston. Feeding on millet and grasses. Nymphs numerous
+      during August.
+
+   =Agallia sanguinolenta= Prov. Most plentiful in southern part
+      of state. A decided pest of clover and alfalfa. Other food
+      plants include wheat and several weeds. Adults abroad in fields
+      all seasons of the year. Abundant in northern Arkansas.
+
+   =Agallia constricta= VanDuzee. One of the earliest jassids to
+      appear in the spring. Most numerous on grains. Attacks wheat,
+      rye, oats, alfalfa and grass. Abundant in southern counties.
+
+   =Agallia uhleri= VanDuzee. Not very numerous. Occurring
+      principally near swamps along the Mississippi River. Also
+      collected from clover fields.
+
+   =Agallia novella= Say. Rather uncommon. Taken only in
+      southern half of state. Adults collected from alfalfa and
+      from weeds growing in marshes and bogs.
+
+   =Agallia 4-punctata= Prov. Clover and alfalfa are among its
+      food plants. Most abundant in southern counties.
+
+   =Agallia gillettei= O. & B. Quite rare. A few adults taken
+      at Charleston.
+
+
+                           TETTIGONIDELLIAE.
+
+   =Oncometopia undata= Fabr. Occurs throughout the state, but
+      not abundant. Swept from grass, weeds and a number of shrubs.
+
+   =Oncometopia costalis= Fabr. Occasional specimens taken
+      throughout southern part of state. Also recorded in the
+      collection of the Experiment Station at Columbia.
+
+   =Homalodisca coagulata= Say. Occasional specimens taken from
+      cotton and cowpeas. Not abundant.
+
+   =Aulacizes irrorata= Fabr. Recorded from the collection of the
+      Experiment Station at Columbia.
+
+   =Kolla bifida= Say. Swept from weeds in marshy lands and from
+      willows and several shrubs. Recorded only in Mississippi County.
+
+   =Kolla geometrica= Sign. Not common. Recorded from Springfield
+      on grass.
+
+   =Kolla tripunctata= Fitch. Mentioned in VanDuzee’s Catalogue
+      of Described Jassoidea of N. A. as occurring in Missouri.
+
+   =Tettigoniella gothica= Sign. Only one specimen taken. From
+      grass at Lutesville, August 13.
+
+   =Tettigoniella occatoria= Say. Common in eastern part of state.
+      Feeds on clover and weeds.
+
+   =Tettigoniella hartii= Wood. Quite numerous throughout the
+      state during the late summer. Captured only from meadows and
+      grass lands.
+
+   =Tettigoniella hieroglyphica= Say. Rather common in all parts
+      of the state. Known to feed on clover and several weeds.
+
+   =Tettigoniella hieroglyphica= Say. var. hieroglyphica Say. One
+      adult captured from grass at Rolla, September 21,
+      by Mr. Geo. W. Barber.
+
+   =Tettigoniella hieroglyphica= Say. var. uhleri Ball. Rather
+      common in eastern half of state. Taken from clover and weeds.
+
+   =Tettigoniella hieroglyphica= Say. var. confluens Uhler. Taken
+      with the above variety.
+
+   =Diedrocephala coccinea= Forst. Very generally distributed.
+      Common but not in great numbers. Injurious to many
+      ornamental plants in the Missouri Botanical Gardens at
+      St. Louis. Nymphal cast shins observed on leaves of
+      Magnolia and American Holly. Adults taken from several
+      kinds of trees near swamps along the Mississippi River.
+
+   =Diedrocephala versuta= Say. Very abundant in central and
+      southern Missouri. Adults first observed in June. All
+      stages abroad in fields from July to November. Injurious
+      to cowpeas in Southeast Missouri. Food plants include
+      alfalfa, clover, sunflower, grasses, and many weeds. Common
+      on several ornamental plants and shrubs in the Missouri
+      Botanical Gardens at St. Louis during September.
+
+   =Draeculacephala reticulata= Sign. Rather common at Charleston
+      and Sikeston during July and August and September, on corn,
+      alfalfa and grasses. Taken at Chillicothe, Sept. 6, Stanberry,
+      Sept. 7. The last two records extend the distribution of this
+      jassid to north of the Missouri River, a fact which is interesting
+      in view of the distribution recorded by Prof. Osborn in
+      Bull. 108. Bur. of Ent.
+
+   =Draeculacephala angulifera= Walker. Quite common on grass at
+      Charleston.
+
+   =Draeculacephala mollipes= Say. Abundant throughout the state.
+      All stages present from April to November. Of great economic
+      importance. A decided pest to young grains and grasses. Known to
+      feed on an innumerable list of plants and shrubs, field crops,
+      and ornamentals. Adults migrate in large numbers. About the most
+      common jassid in Missouri.
+
+   =Draeculacephala noveboracensis= Fitch. Taken on grass at
+      Charleston.
+
+   =Helochara communis= Fitch. Swept from wheat on many warm,
+      sunny days during the winter. In July collected from alfalfa.
+      Recorded only from Mississippi County.
+
+   =Gypona 8-lineata= Say. Occurs throughout the state. Has
+      special liking for shady and damp places. Appears to be
+      essentially a grass feeder.
+
+   =Gypona flavilineata= Fitch. Swept from grass lands at
+      Chillicothe.
+
+   =Gypona cana= Burm. Taken with G. flavilineata.
+
+   =Gypona pectoralis= Spangb. Taken with G. flavilineata.
+
+
+                               JASSIDAE.
+
+   =Xestocephalus pulicarius= VanDuzee. One specimen of this form
+      taken at an electric light at Charleston, July 28.
+
+   =Xestocephalus tesselatus= VanDuzee. Collected from elm
+      leaves at Charleston. Quite rare.
+
+   =Hecalus lineatus= Uhler. Not common. Nymphs more numerous than
+      adults during August. Swept from rank growing grasses near the
+      Mississippi River at Hannibal.
+
+   =Parabolocratus viridis= Uhler. Recorded from Springfield,
+      Columbia, Chillicothe, and Charleston. Observed feeding on grass,
+      sweet clover and sorghum.
+
+   =Platymetopius acutus= Say. Only one adult collected. Swept from
+      weeds near a bog at Charleston, July 28.
+
+   =Platymetopius frontalis= VanDuzee. Very common throughout the
+      state. Attacks clover, alfalfa, and grasses. Also taken from woody
+      shrubs.
+
+   =Deltocephalus nigrifrons= Forbes. Generally distributed in all
+      sections of the state. Very abundant during October. Known to feed
+      upon clover, alfalfa, wheat, many grasses including blue grass,
+      and several weeds. Attracted to lights at night.
+
+   =Deltocephalus weedi= VanDuzee. Quite common on weeds along
+      roadsides and shady places. Collected at Lutesville and
+      Charleston during the late summer.
+
+   =Deltocephalus flavicosta= Stal. Quite abundant during middle
+      and late summer, principally in southern part of state. Swept
+      from native grasses and weeds. Occasional specimens taken from
+      wheat.
+
+   =Deltocephalus sayi= Fitch. Recorded from grass lands in North
+   western parts of state in September. Quite common in blue grass.
+
+   =Deltocephalus inimicus= Say. Common in all parts of the state.
+      All stages taken from May to November. Food plants include wheat,
+      oats, alfalfa, clover, cowpeas, timothy, blue grass, other native
+      grasses, and weeds.
+
+   =Deltocephalus albidus= Osb. & Ball. Recorded from the
+      collection of the Experiment Station at Columbia.
+
+   =Deltocephalus obtectus= Osb. & Ball. Quite scarce. Recorded
+      only from Mississippi County. Near swamps.
+
+   =Deltocephalus misellus= Ball. Captured but one adult, in a corn
+      field near Mississippi River at West Quincy.
+
+   =Deltocephalus productus= Walker. Rather scarce. Swept from
+      clover and weeds at Stanberry.
+
+   =Deltocephalus debilis= Uhler. Quite common on grasses in rye
+      and wheat stubble fields about Hannibal and West Quincy.
+
+   =Athysanus exitiosus= Uhler. Occurs throughout the state. With
+      the exception of Draeculacephala mollipes it is the most common
+      jassid of northwestern Missouri. Adults present at all seasons of
+      the year. Food plants include wheat, oats, corn, alfalfa, grasses,
+      and weeds.
+
+   =Athysanus bicolor= VanDuzee. Numerous in southern part of
+      state, especially in low or bottom lands. Feeds upon many weeds,
+      grasses and alfalfa.
+
+   =Athysanus obtutus= VanDuzee. Not common. A few adults taken
+      from sweeping wheat fields in the early spring. Recorded only
+      from Mississippi County.
+
+   =Athysanus plutonius= Uhler. Rather rare. Occasional specimens
+      swept from wheat in Scott and Mississippi Counties.
+
+   =Athysanus curtisi= Fitch. Only one adult captured sweeping
+      weeds at Hannibal.
+
+   =Eutettix clarivida= VanDuzee. Recorded from Lutesville and
+      Charleston, from millet and grasses. Nymphs numerous during
+      August.
+
+   =Eutettix osborni= Ball. Collected by Geo. W. Barber at Poplar
+      Bluff, from White Aster, used in ornamental plantings.
+
+   =Eutettix seminuda= Say. Rather numerous but not abundant.
+      Occurring in all parts of the state. Collected principally from
+      weeds and woody shrubs near swamps. Also from grape vines.
+
+   =Eutettix strobi= Fitch. Only one adult captured. Feeding on a
+      leaf of a willow tree growing in a swamp.
+
+   =Phlepsius apertus= VanDuzee. Very common throughout the state,
+      especially in the southeast section. Occurs in great numbers on
+      alfalfa and clover upon which crops they must be considered a
+      pest. Also recorded from grasses and weeds. Most abundant during
+      July and August.
+
+   =Phlepsius irroratus= Say. Very common and generally distributed
+      throughout the state. Of economic importance, attacking alfalfa,
+      clover, cowpeas, corn, wheat, oats, grape, many grasses, and
+      weeds.
+
+   =Phlepsius cinereus= VanDuzee. Recorded only from Mississippi
+      County. Most numerous in early summer. Often taken at lights.
+
+   =Phlepsius pallidus= VanDuzee. Collected at lights during summer
+      months. Generally distributed but not abundant.
+
+   =Phlepsius superbus= Uhler. Not abundant. Occasional specimens
+      captured in Mississippi County.
+
+   =Scaphoideus sanctus= Say. Occasional specimens taken in
+      southern part of state.
+
+   =Scaphoideus productus= Osborn. One adult collected at Rodney,
+      August 25.
+
+   =Scaphoideus scalaris= VanDuzee. Quite common. Recorded from
+      Springfield and Hannibal. Taken only from weeds.
+
+   =Scaphoideus jucundus= Uhler. Occurs on rank weeds and willows.
+      Only record is from Stanberry.
+
+   =Scaphoideus immistus= Say. Swept from woody shrubs and rank
+      grasses about Charleston.
+
+   =Scaphoideus immistus= Say. var. minor Osborn. One adult taken
+      at Charleston.
+
+   =Thamnotettix clitellarius= Say. An occasional adult taken in
+      sweepings from grasses and weeds in southeast Missouri. Also taken
+      from grape at Columbia.
+
+   =Chlorotettix viridius= VanDuzee. A few adults taken during the
+      summer from grasses and weeds growing in low and swampy lands.
+      Recorded from Pattonsburg and Charleston.
+
+   =Chlorotettix unicolor= Fitch. Rather common in central and
+      northern parts of state. Collected from willows growing in
+      lowlands.
+
+   =Chlorotettix tergatus= Fitch. One adult collected at
+      Charleston, September 2.
+
+   =Chlorotettix necopina= VanDuzee. Only record is from Charleston
+      where adults were swept from weeds growing in marshy places.
+
+   =Chlorotettix galbanata= VanDuzee. Quite rare. Occasional
+      specimens taken from weeds growing along roadsides in Mississippi
+      County.
+
+   =Jassus olitorius= Say. Not common. A few adults taken in
+      southeast Missouri. Observed them feeding upon alfalfa.
+
+   =Balclutha punctatus= Thunbg. Only record of occurrence is from
+      Pattonsburg.
+
+   =Gnathodus impictus= VanDuzee. Not numerous. Observed feeding on
+      grasses and several weeds at Charleston during May.
+
+   =Cicadula 6-notata= Fall. Occurs in all sections of the state,
+      most abundant in northeast. Known to feed upon wheat, oats, and
+      grasses. Especially numerous during October.
+
+   =Empoasca mali= LeB. One of the most common and probably the
+      most injurious leafhopper. Feeds on a great variety of plants,
+      shrubs and trees. A pest of field crops, nursery stock, and
+      orchards. Especially abundant during the summer of 1915 on alfalfa
+      and clover. In early spring adults have been observed feeding on
+      wheat, rye and native grasses. Exhibits great adaptability to
+      changes of climate and host plants.
+
+   =Empoasca smaragdula= Fall. Listed by Gillette as occurring in
+      the state.
+
+   =Empoasca radiata= Gillette. Swept from willows growing in the
+      Missouri Botanical Gardens at St. Louis.
+
+   =Dicraneura abnormis= Walsh. Not common. Few specimens collected
+      from blue grass and around lights at night at Chillicothe, during
+      September.
+
+   =Typhlocyba illinoiensis= Gillette. Noted feeding on rose leaves
+      in the Missouri Botanical Gardens at St. Louis.
+
+   =Typhlocyba obliqua= Say. Very abundant on many weeds at
+      Springfield during August.
+
+   =Typhlocyba trifasciata= Say. Listed by Gillette as occurring in
+      the state.
+
+   =Typhlocyba tricincta= Fitch. Abundant on several ornamental
+      bushes in Missouri Botanical Gardens at St. Louis. Adults
+      exceedingly quick of movement. Also collected at Pattonsburg and
+      Columbia.
+
+   =Typhlocyba comes= Say. Abundant throughout the state. A severe
+      pest of grapes, especially in southeast Missouri. Feeds on a
+      number of weeds. Attracted to lights at night in considerable
+      numbers.
+
+   =Typhlocyba comes= Say. var. vitis Harris. Occurring on
+      ornamental shrubs, including rose, in the Missouri Botanical
+      Gardens at St. Louis.
+
+   =Typhlocyba comes= Say. var. scutelleris Gillette. Very common
+      on Sycamore in all stages, and frequently causing severe
+      infestations. Nymphs and adults feed on under side of leaves
+      resulting in small whitish brown spots. Occurs in all parts of
+      Missouri.
+
+   =Typhlocyba comes= Say. var. basilaris Say. One adult captured
+      by Geo. W. Barber at Poplar Bluff, September 4, from white aster.
+
+   =Typhlocyba comes= Say. var. ziczac Walsh. Collected from rose
+      bushes in the Missouri Botanical Gardens at St. Louis.
+
+   =Typhlocyba vulnerata= Fitch. Rather numerous on several
+      ornamental shrubs growing in the Missouri Botanical Gardens.
+      Feeds on under side of leaves.
+
+
+
+
+                            NEWS AND NOTES.
+
+
+The Twenty-fifth Annual Meeting of the Ohio Academy of Science was held
+at the Ohio State University, at Columbus, on November 26th and 27th.
+A special program was given in commemoration of the Quarter Centennial
+Anniversary.
+
+       *       *       *       *       *
+
+The American Association for the Advancement of Science will hold
+its Annual Meeting on the Ohio State University Campus, at Columbus,
+December 27th, 1915 to January 1st, 1916. A large attendance is
+expected and arrangements have been completed to make the meeting one
+of unusual interest.
+
+       *       *       *       *       *
+
+At the November meeting of the Biological Club, the following officers
+were elected for the ensuing year: President, Dr. F. H. Krecker of the
+Department of Zoology and Entomology; Vice President, Miss Clara G.
+Mark, of the Department of Geology; Secretary and Treasurer, Mr. Rollo
+C. Baker, of the Department of Anatomy.
+
+       *       *       *       *       *
+
+The following officers were named by the Ohio State University
+Scientific Society for the year: President, F. C. Blake, Department
+of Physics; Vice President, Jas. R. Withrow, Department of Chemistry;
+Secretary, R. J. Seymour, Department of Physiology; Treasurer, C. J.
+West, Department of Mathematics. These officers constitute an executive
+committee which will arrange programs for the regular meetings of the
+society, the first of which will occur during January.
+
+       *       *       *       *       *
+
+An interesting event occurring during the recent meeting of the Ohio
+Academy of Science was the short talk given by Dr. T. C. Mendenhall
+to the New York and San Francisco alumni of the Ohio State University
+by means of the trans-continental telephone. Dr. Mendenhall, while
+a member of the University faculty, established the first telephone
+to be used in central Ohio, a line from his University office to
+his residence, and he expressed himself as greatly pleased at the
+opportunity accorded him to speak to his former students over a line
+extending across the continent.
+
+       *       *       *       *       *
+
+The Ohio Academy of Science at its November meeting voted to change
+the date of its annual session to a time corresponding to the Easter
+recess. The exact time of the meeting is to be determined by the
+executive committee, the Academy voting to have the next meeting occur
+in the spring of 1916.
+
+       *       *       *       *       *
+
+Established last Spring, the latest honorary society, Phi Sigma, a
+student organization open only to students having completed an amount
+of biological work equivalent to a minor, has awakened interest in the
+universities of other states. Inquiries concerning the possibility of
+establishing other chapters at distant institutions have been received
+by the parent chapter at Ohio State University and it is probable that
+such chapters will be formed during the present year. Phi Sigma hopes
+to publish a biological quarterly in the near future.
+
+Dates of Publication:
+    November Number, Nov. 22, 1915.
+    December Number, Dec. 20, 1915.
+
+
+
+
+                         The College Book Store
+
+        Reference books in all departments of Higher Education.
+
+              Biological Supplies and Advanced Text Books
+                          new and secondhand.
+
+                   OPPOSITE THE UNIVERSITY ENTRANCE.
+
+                            COLUMBUS, OHIO.
+
+
+                       The Bucher Engraving Co.,
+
+                             COLUMBUS, OHIO
+
+             Scientific Illustrations given extremely
+             careful attention by highly skilled artisans
+             using the most modern equipment
+
+
+          DIE STAMPING.       PLATE AND LETTER PRESS PRINTING.
+
+                         _SPAHR & GLENN,_
+
+                    _PRINTERS and PUBLISHERS_.
+
+              50 EAST BROAD STREET.        COLUMBUS, OHIO.
+
+
+
+
+                       The Ohio State University
+
+                                COLUMBUS
+
+                   WILLIAM OXLEY THOMPSON, President.
+
+                   Ten Colleges and a Graduate School
+
+                College of Agriculture
+                College of Arts, Philosophy and Science
+                College of Education
+                College of Engineering
+                College of Homeopathic Medicine
+                College of Law
+                College of Medicine
+                College of Dentistry
+                College of Pharmacy
+                College of Veterinary Medicine
+                Graduate School
+                Summer Session (Eight weeks)
+
+   For general information, catalogue, or special bulletin describing
+   each college, with fees and announcement of courses.
+
+   Address:
+           L. E. WOLFE, Secretary Entrance Board,
+                        THE OHIO STATE UNIVERSITY
+
+
+
+
+
+
+End of the Project Gutenberg EBook of The Ohio Journal of Science, Vol. XVI., No. 2 (December, 1915)  by Various
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE OHIO JOURNAL OF SCIENCE ***
+
+***** This file should be named 56181-0.txt or 56181-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/6/1/8/56181/
+
+Produced by Larry B. Harrison, Paul Marshall and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
