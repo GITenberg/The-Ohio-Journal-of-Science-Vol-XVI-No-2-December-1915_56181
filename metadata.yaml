@@ -1,5 +1,8 @@
 _repo: The-Ohio-Journal-of-Science-Vol-XVI-No-2-December-1915_56181
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56181-h/images/cover.jpg
 creator:
   author: &id001
     agent_name: Various
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/116
   editor: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56181#The-Ohio-Journal-of-Science-Vol-XVI-No-2-December-1915
 gutenberg_issued: '2017-12-15'
 gutenberg_type: Text
 identifiers:
